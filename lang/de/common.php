@@ -5,11 +5,11 @@ return [
 
     'button' => [
         'view' => 'Anzeigen',
-        'view_all' => 'Alles anzeigen',
+        'view_all' => 'Alles Anzeigen',
     ],
     'confirm' => 'Bestätigen',
     'cancel' => 'Abbrechen',
     'select' => [
-        'placeholder' => 'Bitte wähle :name',
+        'placeholder' => 'Bitte Wähle :name',
     ],
 ];

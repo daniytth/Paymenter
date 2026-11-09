@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'add_to_cart' => 'Zum Warenkorb hinzufügen',
+    'add_to_cart' => 'Zum Warenkorb Hinzufügen',
     'view' => 'Anzeigen',
     'checkout' => 'Zur Kasse',
     'remove' => 'Entfernen',
@@ -10,7 +10,7 @@ return [
     'subtotal' => 'Zwischensumme',
     'total' => 'Gesamt',
 
-    'then_after_x' => 'Dann nach :time',
+    'then_after_x' => 'Dann Nach :time',
     'order_summary' => 'Bestellübersicht',
     'edit' => 'Bearbeiten',
 
@@ -23,8 +23,8 @@ return [
     'not_available' => ':product ist in deiner Währung nicht verfügbar',
     'user_limit' => 'Du hast das Limit von :product erreicht',
     'payment_method' => 'Zahlungsmethode',
-    'use_credits' => 'Guthaben verwenden',
-    'tos' => 'Ich stimme folgendem zu ',
+    'use_credits' => 'Guthaben Verwenden',
+    'tos' => 'Ich Stimme Folgendem Zu ',
     'tos_link' => 'Nutzungsbedingungen',
     'tos_required' => 'Du musst die Nutzungsbedingungen akzeptieren',
 ];

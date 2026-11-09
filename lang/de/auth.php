@@ -18,14 +18,14 @@ return [
     'throttle' => 'Zu viele Login-Versuche. Bitte versuche es in :seconds Sekunden erneut.',
 
     'sign_in' => 'Anmelden',
-    'sign_in_title' => 'Bei deinem Konto anmelden',
-    'or_sign_in_with' => 'Oder anmelden mit',
+    'sign_in_title' => 'Bei Deinem Konto Anmelden',
+    'or_sign_in_with' => 'Oder Anmelden Mit',
     'forgot_password' => 'Passwort vergessen?',
     'dont_have_account' => 'Du hast noch kein Konto?',
     'already_have_account' => 'Du hast bereits ein Konto?',
 
-    'sign_up' => 'Konto erstellen',
-    'sign_up_title' => 'Erstelle dein Konto',
+    'sign_up' => 'Konto Erstellen',
+    'sign_up_title' => 'Erstelle Dein Konto',
 
     'logout' => 'Abmelden',
 
@@ -40,18 +40,18 @@ return [
         'account_not_registered' => 'Du bist nicht auf dieser Seite registriert.',
     ],
 
-    'reset_password' => 'Passwort zurücksetzen',
+    'reset_password' => 'Passwort Zurücksetzen',
 
-    'verify_2fa' => '2FA verifizieren',
+    'verify_2fa' => '2FA Verifizieren',
     'verify' => 'Überprüfen',
-    'sign_in_with_passkey' => 'Mit einem Passkey anmelden',
-    'passkey_signing_in' => 'Warte auf deinen Passkey …',
-    'confirm_password_title' => 'Passwort bestätigen',
+    'sign_in_with_passkey' => 'Mit Einem Passkey Anmelden',
+    'passkey_signing_in' => 'Warte Auf Deinen Passkey …',
+    'confirm_password_title' => 'Passwort Bestätigen',
     'confirm_password_description' => 'Bestätige dein Passwort, bevor du Passkeys verwaltest.',
-    'confirm_password' => 'Passwort bestätigen',
+    'confirm_password' => 'Passwort Bestätigen',
 
     'verification' => [
-        'notice' => 'Bestätige deine E-Mail-Adresse',
+        'notice' => 'Bestätige Deine E-Mail-Adresse',
         'sent' => 'Ein neuer Bestätigungslink wurde an deine E-Mail-Adresse versendet.',
         'check_your_email' => 'Bitte überprüfe dein E-Mail-Postfach auf eine Nachricht mit dem Bestätigungslink.',
         'not_received' => 'Wenn du die E-Mail nicht erhalten hast, kannst du eine neue anfordern.',
