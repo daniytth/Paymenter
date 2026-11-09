@@ -49,7 +49,7 @@ return [
         'notice' => 'Verifiera din e-postadress',
         'sent' => 'En ny verifieringslänk har skickats till din e-postadress.',
         'check_your_email' => 'Innan du fortsätter, kontrollera din e-post efter en verifieringslänk.',
-        'not_received' => 'Om du inte fick e-postmeddelandet kan du begära ett till verifieringsmail.',
+        'not_received' => 'Om du inte fick e-postmeddelandet kan du begära ett nytt verifieringsmail.',
         'request_another' => 'Skicka verifieringsmail igen',
     ],
 ];

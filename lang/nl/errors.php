@@ -2,12 +2,12 @@
 
 return [
     '404' => [
-        'title' => 'Page Not Found',
-        'message' => 'Sorry, the page you are looking for could not be found.',
-        'return_home' => 'Back to Home',
+        'title' => 'Pagina niet gevonden',
+        'message' => 'Sorry, de pagina die je zoekt kon niet worden gevonden.',
+        'return_home' => 'Terug naar home',
     ],
     '500' => [
-        'title' => 'Server Error',
-        'message' => 'Whoops, something went wrong on our end. Please try again later.',
+        'title' => 'Serverfout',
+        'message' => 'Oeps, er is iets misgegaan aan onze kant. Probeer het later opnieuw.',
     ],
 ];

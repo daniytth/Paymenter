@@ -3,14 +3,14 @@
 return [
     'services' => 'Services',
     'product' => 'Produit',
-    'price' => 'Prix ',
-    'status' => 'État ',
-    'name' => 'Nom ',
+    'price' => 'Prix',
+    'status' => 'État',
+    'name' => 'Nom',
     'actions' => 'Actions',
     'view' => 'Afficher',
 
-    'product_details' => 'Informations sur le produit ',
-    'billing_cycle' => 'Cycle de facturation ',
+    'product_details' => 'Informations sur le produit',
+    'billing_cycle' => 'Cycle de facturation',
     'cancel' => 'Résilier ce service',
     'cancellation' => 'Résiliation de :service',
     'cancel_are_you_sure' => 'Êtes-vous certain de vouloir résilier ce service ?',
@@ -20,7 +20,7 @@ return [
     'cancel_end_of_period' => 'À l\'échéance du service',
     'cancel_immediate_warning' => 'Si vous choisissez de continuer, le service sera résilié immédiatement sans remboursement et vous ne pourrez plus l\'utiliser.',
     'cancellation_requested' => 'Résiliation demandée',
-    'not_cancellable' => 'This service cannot be cancelled',
+    'not_cancellable' => 'Ce service ne peut pas être résilié',
 
     'current_plan' => 'Offre actuelle',
     'new_plan' => 'Nouvelle offre',

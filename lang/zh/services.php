@@ -20,7 +20,7 @@ return [
     'cancel_end_of_period' => '在計費週期結束時取消',
     'cancel_immediate_warning' => '當您按下下方的按鈕後，服務將立即取消，您將無法再使用。',
     'cancellation_requested' => '已請求取消',
-    'not_cancellable' => 'This service cannot be cancelled',
+    'not_cancellable' => '此服務無法取消',
 
     'current_plan' => '目前方案',
     'new_plan' => '新方案',
@@ -35,16 +35,16 @@ return [
     'upgrade_choose_config' => '選擇要升級的配置',
     'next_step' => '下一步',
 
-    'upgrade_pending' => '如果已經有升級/降級的帳單則無法執行',
+    'upgrade_pending' => '已有升級或降級的帳單尚未處理，因此無法進行升級',
 
-    'outstanding_invoice' => '您有一項未支付得款項。',
+    'outstanding_invoice' => '您有一筆未付款的帳單。',
     'view_and_pay' => '點擊查看及支付',
 
     'statuses' => [
         'pending' => '等待中',
         'active' => '已啟用',
         'cancelled' => '已取消',
-        'suspended' => '已停權',
+        'suspended' => '已暫停',
         'cancellation_pending' => '取消處理中',
     ],
     'billing_cycles' => [
@@ -67,7 +67,7 @@ return [
     'select_billing_agreement' => '請選擇付款協議',
 
     'remove_payment_method' => '移除付款方式',
-    'remove_payment_method_confirm' => '確定要從此服務移除「:name」付款方式嗎？移除後，系統將無法再自動支付您的發票。',
+    'remove_payment_method_confirm' => '確定要從此服務移除「:name」付款方式嗎？移除後，系統將無法再自動支付您的帳單。',
 
     'label' => '標籤',
     'label_placeholder' => '請輸入此服務的自訂標籤',

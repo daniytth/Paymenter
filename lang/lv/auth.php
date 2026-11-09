@@ -13,43 +13,43 @@ return [
     |
     */
 
-    'failed' => 'These credentials do not match our records.',
-    'password' => 'The provided password is incorrect.',
-    'throttle' => 'Too many login attempts. Please try again in :seconds seconds.',
+    'failed' => 'Šie akreditācijas dati neatbilst mūsu ierakstiem.',
+    'password' => 'Norādītā parole ir nepareiza.',
+    'throttle' => 'Pārāk daudz pieteikšanās mēģinājumu. Lūdzu, mēģiniet vēlreiz pēc :seconds sekundēm.',
 
-    'sign_in' => 'Sign in',
-    'sign_in_title' => 'Sign in to your account',
-    'or_sign_in_with' => 'Or sign in with',
-    'forgot_password' => 'Forgot your password?',
-    'dont_have_account' => 'Don\'t have an account?',
-    'already_have_account' => 'Already have an account?',
+    'sign_in' => 'Pieteikties',
+    'sign_in_title' => 'Pieteikties savā kontā',
+    'or_sign_in_with' => 'Vai pieteikties ar',
+    'forgot_password' => 'Aizmirsāt savu paroli?',
+    'dont_have_account' => 'Nav konta?',
+    'already_have_account' => 'Jau ir konts?',
 
-    'sign_up' => 'Sign up',
-    'sign_up_title' => 'Create your account',
+    'sign_up' => 'Reģistrēties',
+    'sign_up_title' => 'Izveidot savu kontu',
 
-    'logout' => 'Logout',
+    'logout' => 'Izlogoties',
 
     'input' => [
-        'email' => 'Email',
-        'email_label' => 'Email Address',
-        'password' => 'Password',
+        'email' => 'E-pasts',
+        'email_label' => 'E-pasta adrese',
+        'password' => 'Parole',
     ],
 
     'oauth' => [
-        'unverified_discord_account' => 'Your Discord account is not verified.',
-        'account_not_registered' => 'You are not registered on this site.',
+        'unverified_discord_account' => 'Jūsu Discord konts nav verificēts.',
+        'account_not_registered' => 'Jūs neesat reģistrējies šajā vietnē.',
     ],
 
-    'reset_password' => 'Reset password',
+    'reset_password' => 'Atiestatīt paroli',
 
-    'verify_2fa' => 'Verify 2FA',
-    'verify' => 'Verify',
+    'verify_2fa' => 'Verificēt 2FA',
+    'verify' => 'Verificēt',
 
     'verification' => [
-        'notice' => 'Verify your email address',
-        'sent' => 'A new verification link has been sent to your email address.',
-        'check_your_email' => 'Before proceeding, please check your email for a verification link.',
-        'not_received' => 'If you did not receive the email you can request another verification email.',
-        'request_another' => 'Resend verification email',
+        'notice' => 'Verificējiet savu e-pasta adresi',
+        'sent' => 'Uz jūsu e-pasta adresi ir nosūtīta jauna verifikācijas saite.',
+        'check_your_email' => 'Pirms turpināt, lūdzu, pārbaudiet savu e-pastu, lai atrastu verifikācijas saiti.',
+        'not_received' => 'Ja neesat saņēmis e-pastu, varat pieprasīt vēl vienu verifikācijas e-pastu.',
+        'request_another' => 'Nosūtīt verifikācijas e-pastu vēlreiz',
     ],
 ];

@@ -15,13 +15,13 @@ return [
     'two_factor_authentication_disable' => 'تعطيل المصادقة الثنائية',
     'two_factor_authentication_disable_description' => 'هل أنت متأكد من أنك تريد تعطيل المصادقة الثنائية؟ سيؤدي هذا إلى إزالة طبقة الأمان الإضافية على حسابك.',
     'two_factor_authentication_enable_description' => 'لتمكين المصادقة الثنائية، تحتاج إلى مسح رمز QR أدناه باستخدام تطبيق مصادقة مثل Google Authenticator أو Authy.',
-    'two_factor_authentication_qr_code' => 'أفحص رمز QR أدناه باستخدام تطبيق المصادقة الخاص بك:',
+    'two_factor_authentication_qr_code' => 'امسح رمز QR أدناه باستخدام تطبيق المصادقة الخاص بك:',
     'two_factor_authentication_secret' => 'أو أدخل الرمز التالي يدويًا:',
 
     'sessions' => 'الجلسات',
     'sessions_description' => 'إدارة وتسجيل الخروج من جلساتك النشطة على المتصفحات والأجهزة الأخرى.',
     'logout_sessions' => 'تسجيل خروج هذه الجلسة',
-    'current_device' => 'Current device',
+    'current_device' => 'الجهاز الحالي',
 
     'input' => [
         'current_password' => 'كلمة المرور الحالية',
@@ -46,7 +46,7 @@ return [
         'two_factor_disabled' => 'تم تعطيل المصادقة الثنائية.',
         'two_factor_code_incorrect' => 'الرمز غير صحيح.',
         'session_logged_out' => 'تم تسجيل خروج الجلسة.',
-        'unauthorized' => 'This action is not allowed.',
+        'unauthorized' => 'هذا الإجراء غير مسموح به.',
     ],
 
     'no_credit' => 'ليس لديك أي رصيد.',
@@ -73,7 +73,7 @@ return [
     'remove' => 'إزالة',
     'remove_payment_method' => 'إزالة طريقة الدفع',
     'remove_payment_method_confirm' => 'هل أنت متأكد من أنك تريد إزالة :name؟ لا يمكن التراجع عن هذا الإجراء.',
-    'expires' => 'Expires :date',
+    'expires' => 'ينتهي في :date',
     'cancel' => 'إلغاء',
     'confirm' => 'نعم، أزل',
     'email_notifications' => 'إشعارات البريد الإلكتروني',
@@ -82,7 +82,7 @@ return [
     'notification' => 'إشعار',
 
     'push_notifications' => 'الإشعارات داخل التطبيق',
-    'push_notifications_description' => 'فعل الإشعارات لتلقي التحديثات مباشرة في المتصفح الخاص بك، حتى عندما لا تكون على الموقع.',
+    'push_notifications_description' => 'فعّل الإشعارات لتلقي التحديثات مباشرة في المتصفح الخاص بك، حتى عندما لا تكون على الموقع.',
     'enable_push_notifications' => 'تفعيل الإشعارات',
     'push_status' => [
         'not_supported' => 'الإشعارات غير مدعومة من المتصفح الخاص بك.',

@@ -1,7 +1,6 @@
 <?php
 
 return [
-    '' => '',
 
     'button' => [
         'view' => 'Megtekintés',
@@ -10,6 +9,6 @@ return [
     'confirm' => 'Megerősítés',
     'cancel' => 'Mégsem',
     'select' => [
-        'placeholder' => 'Please select :name',
+        'placeholder' => 'Kérjük, válaszd ki: :name',
     ],
 ];

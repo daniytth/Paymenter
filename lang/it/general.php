@@ -8,7 +8,7 @@ return [
         'last_name' => 'Cognome',
         'last_name_placeholder' => 'Il tuo cognome',
         'email' => 'Email',
-        'email_placeholder' => 'Il tuo indirizzo e-mail',
+        'email_placeholder' => 'Il tuo indirizzo email',
         'phone' => 'Telefono',
         'phone_placeholder' => 'Il tuo numero di telefono',
         'company_name' => 'Nome dell\'azienda',

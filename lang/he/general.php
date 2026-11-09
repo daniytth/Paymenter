@@ -30,7 +30,7 @@ return [
         'password_placeholder' => 'הסיסמה שלך',
 
         'password_confirmation' => 'אמת סיסמה',
-        'password_confirmation_placeholder' => 'Confirm your password',
+        'password_confirmation_placeholder' => 'אמת את הסיסמה שלך',
     ],
 
     'all_rights_reserved' => 'כל הזכויות שמורות.',

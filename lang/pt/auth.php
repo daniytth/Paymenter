@@ -19,7 +19,7 @@ return [
 
     'sign_in' => 'Entrar',
     'sign_in_title' => 'Entre na sua conta',
-    'or_sign_in_with' => 'Ou entrar com',
+    'or_sign_in_with' => 'Ou entre com',
     'forgot_password' => 'Esqueceu sua senha?',
     'dont_have_account' => 'Ainda não possui uma conta?',
     'already_have_account' => 'Já tem uma conta?',
@@ -27,11 +27,11 @@ return [
     'sign_up' => 'Cadastre-se',
     'sign_up_title' => 'Crie a sua conta',
 
-    'logout' => 'Sair da sua conta',
+    'logout' => 'Sair',
 
     'input' => [
         'email' => 'E-mail',
-        'email_label' => 'Endereço de E-mail',
+        'email_label' => 'Endereço de e-mail',
         'password' => 'Senha',
     ],
 
@@ -48,8 +48,8 @@ return [
     'verification' => [
         'notice' => 'Verifique seu endereço de e-mail',
         'sent' => 'Um novo link de verificação foi enviado para o seu endereço de e-mail.',
-        'check_your_email' => 'Antes de avançar, por favor clique no link de verificação enviado para o seu e-mail.',
-        'not_received' => 'Se você não recebeu o e-mail, você pode solicitar outro e-mail de verificação.',
+        'check_your_email' => 'Antes de continuar, por favor verifique seu e-mail e clique no link de verificação enviado.',
+        'not_received' => 'Se você não recebeu o e-mail, pode solicitar outro e-mail de verificação.',
         'request_another' => 'Reenviar e-mail de verificação',
     ],
 ];

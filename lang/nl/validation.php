@@ -37,7 +37,7 @@ return [
     'current_password' => 'Het wachtwoord is onjuist.',
     'date' => ':attribute dient een geldige datum te bevatten.',
     'date_equals' => ':attribute moet een datum gelijk aan :date zijn.',
-    'date_format' => ':attribute dient overeen te komen met het format :format.',
+    'date_format' => ':attribute dient overeen te komen met het formaat :format.',
     'decimal' => ':attribute moet :decimal decimalen hebben.',
     'declined' => ':attribute moet afgewezen worden.',
     'declined_if' => ':attribute moet afgewezen worden wanneer :other gelijk is aan :value.',
@@ -71,9 +71,9 @@ return [
     'image' => ':attribute moet een afbeelding zijn.',
     'in' => 'De geselecteerde :attribute is ongeldig.',
     'in_array' => ':attribute dient te bestaan in :other.',
-    'integer' => ':attribute moet een getal zijn.',
+    'integer' => ':attribute moet een geheel getal zijn.',
     'ip' => ':attribute moet een geldig IP-adres zijn.',
-    'ipv4' => ':ttribute moet een geldig IPv4-adres zijn.',
+    'ipv4' => ':attribute moet een geldig IPv4-adres zijn.',
     'ipv6' => ':attribute moet een geldig IPv6-adres zijn.',
     'json' => ':attribute moet een geldige JSON-string zijn.',
     'list' => ':attribute moet een lijst zijn.',
@@ -154,7 +154,7 @@ return [
     'timezone' => ':attribute moet een geldige tijdzone zijn.',
     'unique' => ':attribute is al in gebruik.',
     'uploaded' => 'Het uploaden van :attribute is mislukt.',
-    'uppercase' => ':Attribute mag alleen hoofdletters bevatten.',
+    'uppercase' => ':attribute mag alleen hoofdletters bevatten.',
     'url' => ':attribute moet een geldige URL zijn.',
     'ulid' => ':attribute moet een geldige ULID zijn.',
     'uuid' => ':attribute moet een geldige UUID zijn.',
@@ -172,7 +172,7 @@ return [
 
     'custom' => [
         'attribute-name' => [
-            'rule-name' => 'custom-message',
+            'rule-name' => 'aangepast bericht',
         ],
     ],
 

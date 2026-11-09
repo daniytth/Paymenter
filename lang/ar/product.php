@@ -20,10 +20,10 @@ return [
 
     'in_stock' => 'متوفر',
     'out_of_stock' => 'المنتج :product غير متوفر',
-    'not_available' => ':product is not available in your currency',
+    'not_available' => ':product غير متوفر بعملتك',
     'user_limit' => 'لقد وصلت إلى الحد الأقصى من :product',
     'payment_method' => 'طريقة الدفع',
-    'use_credits' => 'إستخدم الرصيد',
+    'use_credits' => 'استخدم الرصيد',
     'tos' => 'أنا أوافق على ',
     'tos_link' => 'شروط الخدمة',
     'tos_required' => 'يجب عليك الموافقة على شروط الخدمة',

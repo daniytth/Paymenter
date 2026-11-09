@@ -1,8 +1,8 @@
 <?php
 
 return [
-    'home' => 'Home',
-    'shop' => 'Shop',
+    'home' => 'Startpagina',
+    'shop' => 'Winkel',
     'cart' => 'Winkelwagen',
     'login' => 'Inloggen',
     'register' => 'Registreren',
@@ -13,6 +13,6 @@ return [
     'security' => 'Beveiliging',
     'dashboard' => 'Dashboard',
     'tickets' => 'Tickets',
-    'admin' => 'Admin',
-    'notifications' => 'Notifications',
+    'admin' => 'Beheerder',
+    'notifications' => 'Meldingen',
 ];

@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'accepted' => 'The :attribute field must be accepted.',
+    'accepted' => ':attribute alanı kabul edilmelidir.',
     'accepted_if' => ':attribute alanı, :other :value olduğunda kabul edilmelidir.',
     'active_url' => ':attribute alanı geçerli bir URL olmalıdır.',
     'after' => ':attribute alanı :date tarihinden sonraki bir tarih olmalıdır.',
@@ -31,7 +31,7 @@ return [
         'numeric' => ':attribute alanı :min ile :max arasında olmalıdır.',
         'string' => ':attribute alanı :min ile :max karakter arasında olmalıdır.',
     ],
-    'boolean' => 'The :attribute field must be true or false.',
+    'boolean' => ':attribute alanı doğru veya yanlış olmalıdır.',
     'can' => ':attribute alanı yetkisiz bir değer içeriyor.',
     'confirmed' => ':attribute alanının doğrulaması eşleşmiyor.',
     'current_password' => 'Şifre yanlış.',
@@ -48,12 +48,12 @@ return [
     'distinct' => ':attribute alanı yinelenen bir değer içeriyor.',
     'doesnt_end_with' => ':attribute alanı aşağıdakilerden biriyle bitmemelidir: :values.',
     'doesnt_start_with' => ':attribute alanı aşağıdakilerden biriyle başlamamalıdır: :values.',
-    'email' => 'The :attribute field must be a valid email address.',
+    'email' => ':attribute alanı geçerli bir e-posta adresi olmalıdır.',
     'ends_with' => ':attribute alanı aşağıdakilerden biriyle bitmelidir: :values.',
-    'enum' => 'The selected :attribute is invalid.',
-    'exists' => 'The selected :attribute is invalid.',
+    'enum' => 'Seçilen :attribute geçersiz.',
+    'exists' => 'Seçilen :attribute geçersiz.',
     'extensions' => ':attribute alanı aşağıdaki uzantılardan birine sahip olmalıdır: :values.',
-    'file' => 'The :attribute field must be a file.',
+    'file' => ':attribute alanı bir dosya olmalıdır.',
     'filled' => ':attribute alanı bir değer içermelidir.',
     'gt' => [
         'array' => ':attribute alanı :value değerinden fazla öğe içermelidir.',
@@ -172,7 +172,7 @@ return [
 
     'custom' => [
         'attribute-name' => [
-            'rule-name' => 'Özel doğrulama mesajı.',
+            'rule-name' => 'Özel doğrulama mesajı',
         ],
     ],
 

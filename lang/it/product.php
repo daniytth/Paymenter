@@ -6,7 +6,7 @@ return [
     'checkout' => 'Checkout',
     'remove' => 'Rimuovi',
     'empty_cart' => 'Il tuo carrello è vuoto',
-    'total_today' => 'Totale oggi:',
+    'total_today' => 'Totale di oggi',
     'subtotal' => 'Subtotale',
     'total' => 'Totale',
 
@@ -20,7 +20,7 @@ return [
 
     'in_stock' => 'Disponibile',
     'out_of_stock' => 'Prodotto :product non disponibile',
-    'not_available' => ':product is not available in your currency',
+    'not_available' => ':product non è disponibile nella tua valuta',
     'user_limit' => 'Hai raggiunto il limite di :product',
     'payment_method' => 'Metodo di pagamento',
     'use_credits' => 'Usa crediti',

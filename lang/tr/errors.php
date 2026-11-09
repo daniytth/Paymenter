@@ -2,12 +2,12 @@
 
 return [
     '404' => [
-        'title' => 'Sayfa Bulunamadı',
+        'title' => 'Sayfa bulunamadı',
         'message' => 'Üzgünüz, aradığınız sayfa bulunamadı.',
-        'return_home' => 'Ana Sayfaya Dön',
+        'return_home' => 'Ana sayfaya dön',
     ],
     '500' => [
-        'title' => 'Sunucu Hatası',
-        'message' => 'Oops, bizim tarafımızda bir sorun oluştu. Lütfen daha sonra tekrar deneyin.',
+        'title' => 'Sunucu hatası',
+        'message' => 'Ups, bizim tarafımızda bir sorun oluştu. Lütfen daha sonra tekrar deneyin.',
     ],
 ];

@@ -4,11 +4,11 @@ return [
 
     'cronjob' => [
         'invoices_created' => 'Fakturaer opprettet',
-        'orders_cancelled' => 'Ordre kansellert',
-        'upgrade_invoices_updated' => 'Faktura for oppgardering er oppdatert',
-        'services_suspended' => 'Tjenester er suspendert',
-        'services_terminated' => 'Tjenester er avsluttet',
-        'tickets_closed' => 'Kundeservice henvendelsen er avsluttet',
+        'orders_cancelled' => 'Ordrer kansellert',
+        'upgrade_invoices_updated' => 'Oppgraderingsfakturaer oppdatert',
+        'services_suspended' => 'Tjenester suspendert',
+        'services_terminated' => 'Tjenester avsluttet',
+        'tickets_closed' => 'Supporthenvendelser lukket',
         'email_logs_deleted' => 'E-postlogger slettet',
     ],
 ];

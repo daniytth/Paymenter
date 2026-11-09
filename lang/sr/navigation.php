@@ -4,8 +4,8 @@ return [
     'home' => 'Početna',
     'shop' => 'Prodavnica',
     'cart' => 'Korpa',
-    'login' => 'Uloguj se',
-    'register' => 'Registruj se',
+    'login' => 'Prijava',
+    'register' => 'Registracija',
     'services' => 'Usluge',
     'invoices' => 'Fakture',
     'account' => 'Nalog',
@@ -13,6 +13,6 @@ return [
     'security' => 'Bezbednost',
     'dashboard' => 'Kontrolna tabla',
     'tickets' => 'Tiketi',
-    'admin' => 'Admin',
+    'admin' => 'Administrator',
     'notifications' => 'Obaveštenja',
 ];

@@ -5,7 +5,7 @@ return [
     'input' => [
         'first_name' => 'Ad',
         'first_name_placeholder' => 'Adınız',
-        'last_name' => 'Soyadı',
+        'last_name' => 'Soyad',
         'last_name_placeholder' => 'Soyadınız',
         'email' => 'E-posta',
         'email_placeholder' => 'E-posta adresiniz',
@@ -29,7 +29,7 @@ return [
         'password' => 'Şifre',
         'password_placeholder' => 'Şifreniz',
 
-        'password_confirmation' => 'Şifreyi Onayla',
+        'password_confirmation' => 'Şifreyi onayla',
         'password_confirmation_placeholder' => 'Şifrenizi onaylayın',
     ],
 

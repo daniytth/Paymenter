@@ -14,7 +14,7 @@ return [
     'order_summary' => 'Resumo do pedido',
     'edit' => 'Editar',
 
-    'apply' => 'Confirmar',
+    'apply' => 'Aplicar',
     'price' => 'Preço',
     'setup_fee' => 'Taxa de instalação',
 

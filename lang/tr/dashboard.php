@@ -1,11 +1,11 @@
 <?php
 
 return [
-    'dashboard_title' => 'Hızlı Bakış',
+    'dashboard_title' => 'Kontrol paneli',
     'welcome_back' => 'Hoş geldin, :name!',
     'dashboard_description' => 'Aktif hizmetlerinizi, faturalarınızı ve destek taleplerinizi yönetin, gelişmelerden haberdar olun.',
-    'open_tickets' => 'Açık Destek Talepleri',
-    'unpaid_invoices' => 'Ödenmemiş Faturalar',
-    'active_services' => 'Aktif Hizmetler',
-    'view_all' => 'Tümünü Göster',
+    'open_tickets' => 'Açık destek talepleri',
+    'unpaid_invoices' => 'Ödenmemiş faturalar',
+    'active_services' => 'Aktif hizmetler',
+    'view_all' => 'Tümünü görüntüle',
 ];

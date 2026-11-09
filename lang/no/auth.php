@@ -18,8 +18,8 @@ return [
     'throttle' => 'For mange påloggingsforsøk. Prøv igjen om :seconds sekunder.',
 
     'sign_in' => 'Logg inn',
-    'sign_in_title' => 'Logg på kontoen din',
-    'or_sign_in_with' => 'Eller logg på med',
+    'sign_in_title' => 'Logg inn på kontoen din',
+    'or_sign_in_with' => 'Eller logg inn med',
     'forgot_password' => 'Glemt passordet?',
     'dont_have_account' => 'Har du ikke en konto?',
     'already_have_account' => 'Har du allerede en konto?',
@@ -30,13 +30,13 @@ return [
     'logout' => 'Logg ut',
 
     'input' => [
-        'email' => 'Epost',
-        'email_label' => 'Epostadresse',
+        'email' => 'E-post',
+        'email_label' => 'E-postadresse',
         'password' => 'Passord',
     ],
 
     'oauth' => [
-        'unverified_discord_account' => 'Din Discord konto er ikke bekreftet.',
+        'unverified_discord_account' => 'Discord-kontoen din er ikke bekreftet.',
         'account_not_registered' => 'Du er ikke registrert på dette nettstedet.',
     ],
 
@@ -46,10 +46,10 @@ return [
     'verify' => 'Bekreft',
 
     'verification' => [
-        'notice' => 'Bekreft eposten din',
-        'sent' => 'En bekreftelseslenke har blitt sendt til din epostadresse.',
-        'check_your_email' => 'Før du fortsetter må du sjekke eposten din for verifiseringslenken.',
-        'not_received' => 'Hvis du ikke mottok eposten kan du be om en annen bekreftelse på e-post.',
-        'request_another' => 'Send bekreftelse på nytt',
+        'notice' => 'Bekreft e-postadressen din',
+        'sent' => 'En bekreftelseslenke har blitt sendt til e-postadressen din.',
+        'check_your_email' => 'Før du fortsetter må du sjekke e-posten din for verifiseringslenken.',
+        'not_received' => 'Hvis du ikke mottok e-posten, kan du be om en ny bekreftelses-e-post.',
+        'request_another' => 'Send bekreftelses-e-post på nytt',
     ],
 ];

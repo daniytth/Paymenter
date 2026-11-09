@@ -7,6 +7,6 @@ return [
     'throttled' => 'कृपया पुनः प्रयास करने से पहले प्रतीक्षा करें।',
     'token' => 'यह पासवर्ड रीसेट टोकन अमान्य है।',
     'user' => 'हम उस ईमेल पते से कोई उपयोगकर्ता नहीं ढूंढ पाए।',
-    'sent_if_exists' => 'If the email address is associated with an account, you will receive an email with instructions on how to reset your password.',
+    'sent_if_exists' => 'यदि ईमेल पता किसी खाते से जुड़ा है, तो आपको अपना पासवर्ड रीसेट करने के निर्देशों के साथ एक ईमेल प्राप्त होगा।',
 
 ];

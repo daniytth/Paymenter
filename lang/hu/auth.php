@@ -19,7 +19,7 @@ return [
 
     'sign_in' => 'Belépés',
     'sign_in_title' => 'Jelentkezz be a fiókodba',
-    'or_sign_in_with' => 'Vagy jelentkezzen be ezzel',
+    'or_sign_in_with' => 'Vagy jelentkezz be ezzel',
     'forgot_password' => 'Elfelejtetted a jelszavadat?',
     'dont_have_account' => 'Nincs még fiókod?',
     'already_have_account' => 'Van már fiókod?',
@@ -30,13 +30,13 @@ return [
     'logout' => 'Kijelentkezés',
 
     'input' => [
-        'email' => 'Email',
-        'email_label' => 'Email cím',
+        'email' => 'E-mail',
+        'email_label' => 'E-mail cím',
         'password' => 'Jelszó',
     ],
 
     'oauth' => [
-        'unverified_discord_account' => 'A Discord fiókod nem hitelesített.',
+        'unverified_discord_account' => 'A Discord fiókod nincs hitelesítve.',
         'account_not_registered' => 'Nem regisztráltál ezen az oldalon.',
     ],
 
@@ -46,10 +46,10 @@ return [
     'verify' => 'Hitelesítés',
 
     'verification' => [
-        'notice' => 'Erősítsd meg az e-mail címed',
+        'notice' => 'Erősítsd meg az e-mail címedet',
         'sent' => 'Egy új megerősítő linket küldtünk az e-mail címedre.',
-        'check_your_email' => 'Mielőtt folytatnád, nézd meg az e-mail-jeidet és keresd meg a megerősítő linket, amit küldtünk.',
-        'not_received' => 'Ha nem kaptál megerősítő e-mail-t, itt kérhetsz egy másikat.',
+        'check_your_email' => 'Mielőtt folytatnád, nézd meg az e-mailjeidet, és keresd meg a megerősítő linket, amit küldtünk.',
+        'not_received' => 'Ha nem kaptál megerősítő e-mailt, itt kérhetsz egy másikat.',
         'request_another' => 'Megerősítő e-mail újraküldése',
     ],
 ];

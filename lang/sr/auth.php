@@ -30,8 +30,8 @@ return [
     'logout' => 'Odjavite se',
 
     'input' => [
-        'email' => 'Email',
-        'email_label' => 'Email adresa',
+        'email' => 'E-pošta',
+        'email_label' => 'E-mail adresa',
         'password' => 'Lozinka',
     ],
 
@@ -46,10 +46,10 @@ return [
     'verify' => 'Verifikujte',
 
     'verification' => [
-        'notice' => 'Verifikujte svoju email adresu',
-        'sent' => 'Novi verifikacioni link je poslat na vašu email adresu.',
-        'check_your_email' => 'Pre nego što nastavite, proverite svoj email za verifikacioni link.',
-        'not_received' => 'Ako niste dobili email, možete zatražiti novi verifikacioni email.',
-        'request_another' => 'Pošalji verifikacioni email ponovo',
+        'notice' => 'Verifikujte svoju e-mail adresu',
+        'sent' => 'Novi verifikacioni link je poslat na vašu e-mail adresu.',
+        'check_your_email' => 'Pre nego što nastavite, proverite svoju e-poštu radi verifikacionog linka.',
+        'not_received' => 'Ako niste dobili e-poštu, možete zatražiti novi verifikacioni e-mail.',
+        'request_another' => 'Pošalji verifikacioni e-mail ponovo',
     ],
 ];

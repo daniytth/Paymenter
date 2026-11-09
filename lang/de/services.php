@@ -13,14 +13,14 @@ return [
     'billing_cycle' => 'Abrechnungszeitraum',
     'cancel' => 'Kündigen',
     'cancellation' => 'Kündigung von :service',
-    'cancel_are_you_sure' => 'Sind Sie sicher, dass Sie diesen Dienst kündigen möchten?',
+    'cancel_are_you_sure' => 'Bist du sicher, dass du diesen Dienst kündigen möchtest?',
     'cancel_reason' => 'Grund der Kündigung',
     'cancel_type' => 'Kündigungsart',
     'cancel_immediate' => 'Sofort kündigen',
     'cancel_end_of_period' => 'Am Ende des Abrechnungszeitraums kündigen',
     'cancel_immediate_warning' => 'Wenn du den Button drückst, wird der Dienst sofort gekündigt und du kannst ihn nicht mehr nutzen.',
     'cancellation_requested' => 'Kündigung angefragt',
-    'not_cancellable' => 'This service cannot be cancelled',
+    'not_cancellable' => 'Dieser Dienst kann nicht gekündigt werden',
 
     'current_plan' => 'Aktuelles Paket',
     'new_plan' => 'Neues Paket',
@@ -35,17 +35,17 @@ return [
     'upgrade_choose_config' => 'Wähle die Konfiguration für das Upgrade aus',
     'next_step' => 'Nächster Schritt',
 
-    'upgrade_pending' => 'Du kannst kein Upgrade durchführen, solange du noch offene Rechnungen hast',
+    'upgrade_pending' => 'Du kannst kein Upgrade durchführen, solange noch eine Upgrade-/Downgrade-Rechnung offen ist',
 
-    'outstanding_invoice' => 'Du hast eine ausstehende Rechnung',
+    'outstanding_invoice' => 'Du hast eine ausstehende Rechnung.',
     'view_and_pay' => 'Hier klicken, um anzuzeigen und zu bezahlen',
 
     'statuses' => [
         'pending' => 'Ausstehend',
         'active' => 'Aktiv',
-        'cancelled' => 'Abgebrochen',
+        'cancelled' => 'Gekündigt',
         'suspended' => 'Ausgesetzt',
-        'cancellation_pending' => 'Stornierung ausstehend',
+        'cancellation_pending' => 'Kündigung ausstehend',
     ],
     'billing_cycles' => [
         'day' => 'Tag|Tage',
@@ -61,16 +61,16 @@ return [
     'auto_pay' => 'Automatische Zahlung mit',
     'auto_pay_not_configured' => 'Nicht konfiguriert',
 
-    'no_services' => 'Keine Services gefunden',
+    'no_services' => 'Keine Dienste gefunden',
     'update_billing_agreement' => 'Vereinbarung aktualisieren',
     'clear_billing_agreement' => 'Zahlungsvereinbarung entfernen',
-    'select_billing_agreement' => 'Zahlungsvereinbarung entfernen',
+    'select_billing_agreement' => 'Zahlungsvereinbarung auswählen',
 
     'remove_payment_method' => 'Zahlungsmethode entfernen',
     'remove_payment_method_confirm' => 'Möchtest du die Zahlungsmethode „:name“ wirklich aus diesem Dienst entfernen? Der Dienst kann dann seine Rechnungen nicht mehr automatisch bezahlen.',
 
     'label' => 'Bezeichnung',
-    'label_placeholder' => 'Geben Sie eine benutzerdefinierte Bezeichnung für diesen Dienst ein',
+    'label_placeholder' => 'Gib eine benutzerdefinierte Bezeichnung für diesen Dienst ein',
     'label_modal_title' => 'Dienstleistungsbezeichnung bearbeiten',
     'update_label' => 'Bezeichnung aktualisieren',
 

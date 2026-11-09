@@ -3,10 +3,10 @@
 return [
 
     'reset' => 'A jelszavad visszaállítva.',
-    'sent' => 'E-mail-ben elküldtük a jelszó visszaállításához szükséges linket.',
+    'sent' => 'E-mailben elküldtük a jelszó visszaállításához szükséges linket.',
     'throttled' => 'Kérjük, várj, mielőtt újra megpróbálnád.',
-    'token' => 'Ez a jelszó visszaállító token érvénytelen.',
+    'token' => 'Ez a jelszó-visszaállító token érvénytelen.',
     'user' => 'Nem található felhasználó a megadott e-mail címmel.',
-    'sent_if_exists' => 'If the email address is associated with an account, you will receive an email with instructions on how to reset your password.',
+    'sent_if_exists' => 'Ha az e-mail cím egy fiókhoz tartozik, e-mailt fogsz kapni a jelszavad visszaállításának lépéseivel.',
 
 ];

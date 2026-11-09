@@ -1,11 +1,11 @@
 <?php
 
 return [
-    'dashboard_title' => 'Dashboard',
-    'welcome_back' => 'Welcome back, :name!',
-    'dashboard_description' => 'Manage your active services, invoices, tickets, and stay updated here.',
-    'open_tickets' => 'Open Tickets',
-    'unpaid_invoices' => 'Unpaid Invoices',
-    'active_services' => 'Active Services',
+    'dashboard_title' => 'Informācijas panelis',
+    'welcome_back' => 'Laipni lūdzam atpakaļ, :name!',
+    'dashboard_description' => 'Pārvaldiet savus aktīvos pakalpojumus, rēķinus, pieteikumus un sekojiet līdzi jaunumiem šeit.',
+    'open_tickets' => 'Atvērti pieteikumi',
+    'unpaid_invoices' => 'Neapmaksāti rēķini',
+    'active_services' => 'Aktīvie pakalpojumi',
     'view_all' => 'Pārskatīt visu',
 ];

@@ -25,6 +25,6 @@ return [
     'payment_method' => '支払い方法',
     'use_credits' => 'クレジットを使用',
     'tos' => '私は',
-    'tos_link' => '利用規約に同意します',
+    'tos_link' => '利用規約',
     'tos_required' => '利用規約に同意する必要があります',
 ];

@@ -24,7 +24,7 @@ return [
         'zip' => 'CEP',
         'zip_placeholder' => 'Seu CEP',
         'state' => 'Estado',
-        'state_placeholder' => 'Seu Estado',
+        'state_placeholder' => 'Seu estado',
 
         'password' => 'Senha',
         'password_placeholder' => 'Sua senha',

@@ -19,7 +19,7 @@ return [
 
     'sign_in' => 'Accedi',
     'sign_in_title' => 'Accedi al tuo account',
-    'or_sign_in_with' => 'Oppure accedere con',
+    'or_sign_in_with' => 'Oppure accedi con',
     'forgot_password' => 'Password dimenticata?',
     'dont_have_account' => 'Non hai un account?',
     'already_have_account' => 'Hai già un account?',
@@ -46,8 +46,8 @@ return [
     'verify' => 'Verifica',
 
     'verification' => [
-        'notice' => 'Verifica il tuo indirizzo e-mail',
-        'sent' => 'Un nuovo link di verifica è stato inviato al vostro indirizzo email.',
+        'notice' => 'Verifica il tuo indirizzo email',
+        'sent' => 'Un nuovo link di verifica è stato inviato al tuo indirizzo email.',
         'check_your_email' => 'Prima di procedere, controlla la tua email per trovare un link di verifica.',
         'not_received' => 'Se non hai ricevuto l\'email puoi richiedere un\'altra email di verifica.',
         'request_another' => 'Rinvia email di verifica',

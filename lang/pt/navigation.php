@@ -13,6 +13,6 @@ return [
     'security' => 'Segurança',
     'dashboard' => 'Painel',
     'tickets' => 'Tickets',
-    'admin' => 'Painel de Administração',
+    'admin' => 'Administração',
     'notifications' => 'Notificações',
 ];

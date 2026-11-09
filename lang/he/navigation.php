@@ -14,5 +14,5 @@ return [
     'dashboard' => 'לוח בקרה',
     'tickets' => 'קריאות',
     'admin' => 'ניהול',
-    'notifications' => 'Notifications',
+    'notifications' => 'התראות',
 ];

@@ -29,11 +29,11 @@ return [
         'password' => 'पासवर्ड',
         'password_placeholder' => 'आपका पासवर्ड',
 
-        'password_confirmation' => 'Confirm Password',
-        'password_confirmation_placeholder' => 'Confirm your password',
+        'password_confirmation' => 'पासवर्ड की पुष्टि करें',
+        'password_confirmation_placeholder' => 'अपने पासवर्ड की पुष्टि करें',
     ],
 
     'all_rights_reserved' => 'सर्वाधिकार सुरक्षित।',
     'update' => 'अपडेट करें',
-    'save' => 'Save',
+    'save' => 'सहेजें',
 ];

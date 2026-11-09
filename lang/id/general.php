@@ -30,10 +30,10 @@ return [
         'password_placeholder' => 'Kata Sandi Anda',
 
         'password_confirmation' => 'Konfirmasi Kata Sandi',
-        'password_confirmation_placeholder' => 'Konfirmasi Kata Sandi',
+        'password_confirmation_placeholder' => 'Konfirmasi kata sandi baru Anda',
     ],
 
     'all_rights_reserved' => 'Hak cipta dilindungi.',
-    'update' => 'Pembaruan',
+    'update' => 'Perbarui',
     'save' => 'Simpan',
 ];

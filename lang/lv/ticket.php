@@ -1,25 +1,25 @@
 <?php
 
 return [
-    'ticket_details' => 'Ticket Details',
-    'tickets' => 'Tickets',
-    'subject' => 'Subject',
-    'status' => 'Status',
-    'priority' => 'Priority',
-    'department' => 'Department',
-    'created_at' => 'Created At',
-    'reply' => 'Reply',
+    'ticket_details' => 'Pieteikuma informācija',
+    'tickets' => 'Pieteikumi',
+    'subject' => 'Temats',
+    'status' => 'Statuss',
+    'priority' => 'Prioritāte',
+    'department' => 'Nodaļa',
+    'created_at' => 'Izveidots',
+    'reply' => 'Atbildēt',
 
-    'create_ticket' => 'Create Ticket',
-    'select_department' => 'Select Department',
-    'select_priority' => 'Select Priority',
-    'low' => 'Low',
-    'medium' => 'Medium',
-    'high' => 'High',
+    'create_ticket' => 'Izveidot pieteikumu',
+    'select_department' => 'Izvēlieties nodaļu',
+    'select_priority' => 'Izvēlieties prioritāti',
+    'low' => 'Zema',
+    'medium' => 'Vidēja',
+    'high' => 'Augsta',
 
-    'last_activity' => 'Last activity',
+    'last_activity' => 'Pēdējā aktivitāte',
 
-    'service' => 'Service',
-    'select_service' => 'Select Service',
-    'create' => 'Create',
+    'service' => 'Pakalpojums',
+    'select_service' => 'Izvēlieties pakalpojumu',
+    'create' => 'Izveidot',
 ];

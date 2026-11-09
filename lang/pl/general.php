@@ -8,7 +8,7 @@ return [
         'last_name' => 'Nazwisko',
         'last_name_placeholder' => 'Twoje nazwisko',
         'email' => 'Adres e-mail',
-        'email_placeholder' => 'Twój adres email',
+        'email_placeholder' => 'Twój adres e-mail',
         'phone' => 'Telefon',
         'phone_placeholder' => 'Twój numer telefonu',
         'company_name' => 'Nazwa firmy',
@@ -29,11 +29,11 @@ return [
         'password' => 'Hasło',
         'password_placeholder' => 'Twoje hasło',
 
-        'password_confirmation' => 'Confirm Password',
-        'password_confirmation_placeholder' => 'Confirm your password',
+        'password_confirmation' => 'Potwierdź hasło',
+        'password_confirmation_placeholder' => 'Potwierdź swoje hasło',
     ],
 
     'all_rights_reserved' => 'Wszelkie prawa zastrzeżone.',
-    'update' => 'Aktualizacja',
+    'update' => 'Aktualizuj',
     'save' => 'Zapisz',
 ];

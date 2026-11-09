@@ -30,10 +30,10 @@ return [
         'password_placeholder' => 'Dein Passwort',
 
         'password_confirmation' => 'Passwort bestätigen',
-        'password_confirmation_placeholder' => 'Bestätigen dein Passwort',
+        'password_confirmation_placeholder' => 'Bestätige dein Passwort',
     ],
 
     'all_rights_reserved' => 'Alle Rechte vorbehalten.',
-    'update' => 'Aktualisierung',
+    'update' => 'Aktualisieren',
     'save' => 'Speichern',
 ];

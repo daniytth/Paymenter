@@ -15,7 +15,7 @@ return [
 
     'failed' => 'Błędny login lub hasło.',
     'password' => 'Wprowadzone hasło jest nieprawidłowe.',
-    'throttle' => 'Zbyt wiele prób logowanie. Spróbuj ponownie za :seconds sekund.',
+    'throttle' => 'Zbyt wiele prób logowania. Spróbuj ponownie za :seconds sekund.',
 
     'sign_in' => 'Zaloguj się',
     'sign_in_title' => 'Zaloguj się na swoje konto',
@@ -30,8 +30,8 @@ return [
     'logout' => 'Wyloguj się',
 
     'input' => [
-        'email' => 'Email',
-        'email_label' => 'Adres Email',
+        'email' => 'E-mail',
+        'email_label' => 'Adres e-mail',
         'password' => 'Hasło',
     ],
 
@@ -43,13 +43,13 @@ return [
     'reset_password' => 'Zresetuj hasło',
 
     'verify_2fa' => 'Zweryfikuj 2FA',
-    'verify' => 'Weryfikacja',
+    'verify' => 'Zweryfikuj',
 
     'verification' => [
         'notice' => 'Zweryfikuj swój adres e-mail',
         'sent' => 'Nowy link weryfikacyjny został wysłany na Twój adres e-mail.',
-        'check_your_email' => 'Zanim przejdziesz dalej, sprawdź pocztę, powinieneś otrzymać link weryfikacyjny.',
-        'not_received' => 'Jeśli nie otrzymałeś wiadomości e-mail, możesz poprosić o inny e-mail weryfikacyjny.',
-        'request_another' => 'Wyślij email weryfikacyjny ponownie',
+        'check_your_email' => 'Zanim przejdziesz dalej, sprawdź pocztę – powinieneś otrzymać link weryfikacyjny.',
+        'not_received' => 'Jeśli nie otrzymałeś wiadomości e-mail, możesz poprosić o kolejny e-mail weryfikacyjny.',
+        'request_another' => 'Wyślij e-mail weryfikacyjny ponownie',
     ],
 ];

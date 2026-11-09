@@ -21,7 +21,7 @@ return [
     'sessions' => 'Sessioner',
     'sessions_description' => 'Administrer og log ud af dine aktive sessioner på andre browsere og enheder.',
     'logout_sessions' => 'Log ud af denne session',
-    'current_device' => 'Aktuelle enhed',
+    'current_device' => 'Aktuel enhed',
 
     'input' => [
         'current_password' => 'Nuværende kodeord',
@@ -36,7 +36,7 @@ return [
 
         'currency' => 'Valuta',
         'amount' => 'Beløb',
-        'payment_gateway' => 'Betalings portal',
+        'payment_gateway' => 'Betalingsportal',
     ],
 
     'notifications' => [
@@ -46,7 +46,7 @@ return [
         'two_factor_disabled' => 'Totrinsgodkendelse er blevet deaktiveret.',
         'two_factor_code_incorrect' => 'Totrins koden er forkert.',
         'session_logged_out' => 'Sessionen er blevet logget ud.',
-        'unauthorized' => 'This action is not allowed.',
+        'unauthorized' => 'Denne handling er ikke tilladt.',
     ],
 
     'no_credit' => 'Du har ingen kreditter på din konto.',
@@ -72,7 +72,7 @@ return [
     'services_linked' => ':count service(r) tilknyttet',
     'remove' => 'Fjern',
     'remove_payment_method' => 'Fjern betalingsmetode',
-    'remove_payment_method_confirm' => 'Er du  sikker på at du vil fjerne :name? Denne handling kan ikke fortrydes.',
+    'remove_payment_method_confirm' => 'Er du sikker på at du vil fjerne :name? Denne handling kan ikke fortrydes.',
     'expires' => 'Udløber :date',
     'cancel' => 'Annuller',
     'confirm' => 'Ja, fjern',

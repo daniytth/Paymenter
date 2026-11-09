@@ -13,7 +13,7 @@ return [
     |
     */
 
-    'failed' => 'Annettuja käyttäjätietoja ei löytynyt.',
+    'failed' => 'Annetut tunnistetiedot eivät täsmää.',
     'password' => 'Annettu salasana on virheellinen.',
     'throttle' => 'Liian monta kirjautumisyritystä. Yritä uudelleen :seconds sekunnin kuluttua.',
 
@@ -47,8 +47,8 @@ return [
 
     'verification' => [
         'notice' => 'Vahvista sähköpostiosoitteesi',
-        'sent' => 'Uusi vahvistuslinkki on lähetetty sinun sähköpostiosoitteeseesi.',
-        'check_your_email' => 'Ennen kuin jatkat, tarkista sähköpostisi vahvistuslinkiltä.',
+        'sent' => 'Uusi vahvistuslinkki on lähetetty sähköpostiosoitteeseesi.',
+        'check_your_email' => 'Ennen kuin jatkat, tarkista sähköpostistasi vahvistuslinkki.',
         'not_received' => 'Jos et ole saanut sähköpostia, voit pyytää toisen vahvistussähköpostin.',
         'request_another' => 'Lähetä vahvistussähköposti uudelleen',
     ],

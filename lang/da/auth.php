@@ -19,7 +19,7 @@ return [
 
     'sign_in' => 'Log ind',
     'sign_in_title' => 'Log ind på din konto',
-    'or_sign_in_with' => 'Eller opret med',
+    'or_sign_in_with' => 'Eller log ind med',
     'forgot_password' => 'Glemt dit kodeord?',
     'dont_have_account' => 'Har du ikke en konto?',
     'already_have_account' => 'Har du allerede en konto?',
@@ -30,13 +30,13 @@ return [
     'logout' => 'Log ud',
 
     'input' => [
-        'email' => 'Email',
-        'email_label' => 'Email adresse',
+        'email' => 'E-mail',
+        'email_label' => 'E-mailadresse',
         'password' => 'Kodeord',
     ],
 
     'oauth' => [
-        'unverified_discord_account' => 'Din Discord konto er ikke verificeret hos os.',
+        'unverified_discord_account' => 'Din Discord-konto er ikke verificeret hos os.',
         'account_not_registered' => 'Du er ikke registreret på denne side.',
     ],
 
@@ -46,10 +46,10 @@ return [
     'verify' => 'Verificer',
 
     'verification' => [
-        'notice' => 'Bekræft din email adresse',
-        'sent' => 'Et nyt verificerings link er blevet sent til din email.',
-        'check_your_email' => 'Før du fortsætter, skal du tjekke din email for et verificerings link',
-        'not_received' => 'Hvis du ikke modtog et verificerings link, kan du anmode om en ny.',
-        'request_another' => 'Gensend verificerings link',
+        'notice' => 'Bekræft din e-mailadresse',
+        'sent' => 'Et nyt verificeringslink er blevet sendt til din e-mail.',
+        'check_your_email' => 'Før du fortsætter, skal du tjekke din e-mail for et verificeringslink.',
+        'not_received' => 'Hvis du ikke modtog et verificeringslink, kan du anmode om en ny.',
+        'request_another' => 'Gensend verificeringslink',
     ],
 ];

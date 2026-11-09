@@ -2,12 +2,12 @@
 
 return [
     '404' => [
-        'title' => 'Page Not Found',
-        'message' => 'Sorry, the page you are looking for could not be found.',
-        'return_home' => 'Back to Home',
+        'title' => 'पृष्ठ नहीं मिला',
+        'message' => 'क्षमा करें, आप जिस पृष्ठ की तलाश कर रहे हैं वह नहीं मिल सका।',
+        'return_home' => 'होम पर वापस जाएँ',
     ],
     '500' => [
-        'title' => 'Server Error',
-        'message' => 'Whoops, something went wrong on our end. Please try again later.',
+        'title' => 'सर्वर त्रुटि',
+        'message' => 'क्षमा करें, हमारी ओर से कुछ गड़बड़ हो गई। कृपया बाद में पुनः प्रयास करें।',
     ],
 ];

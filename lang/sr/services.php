@@ -2,11 +2,11 @@
 
 return [
     'services' => 'Usluge',
-    'product' => 'Produkti',
+    'product' => 'Proizvod',
     'price' => 'Cena',
     'status' => 'Status',
     'name' => 'Ime',
-    'actions' => 'Akcija',
+    'actions' => 'Akcije',
     'view' => 'Pregled',
 
     'product_details' => 'Detalji proizvoda',
@@ -20,7 +20,7 @@ return [
     'cancel_end_of_period' => 'Otkaži na kraju obračunskog perioda',
     'cancel_immediate_warning' => 'Kada pritisnete dugme ispod, usluga će odmah biti otkazana i više je nećete moći koristiti.',
     'cancellation_requested' => 'Zahtev za otkazivanje je poslat',
-    'not_cancellable' => 'This service cannot be cancelled',
+    'not_cancellable' => 'Ova usluga ne može biti otkazana',
 
     'current_plan' => 'Trenutni paket',
     'new_plan' => 'Novi paket',
@@ -67,7 +67,7 @@ return [
     'select_billing_agreement' => 'Izaberi ugovor o naplati',
 
     'remove_payment_method' => 'Ukloni način plaćanja',
-    'remove_payment_method_confirm' => 'Da li ste sigurni da želite da uklonite način plaćanja ":name" sa ove usluge? Vaša usluga više neće moći da automatski plaća svoje račune.',
+    'remove_payment_method_confirm' => 'Da li ste sigurni da želite da uklonite način plaćanja ":name" sa ove usluge? Vaša usluga više neće moći da automatski plaća svoje fakture.',
 
     'label' => 'Oznaka',
     'label_placeholder' => 'Unesite prilagođenu oznaku za ovu uslugu',

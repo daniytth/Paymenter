@@ -2,7 +2,7 @@
 
 return [
     '404' => [
-        'title' => 'Página Não Encontrada',
+        'title' => 'Página não encontrada',
         'message' => 'Desculpe, a página que você está procurando não foi encontrada.',
         'return_home' => 'Voltar ao início',
     ],

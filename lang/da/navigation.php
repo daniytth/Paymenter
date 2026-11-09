@@ -6,7 +6,7 @@ return [
     'cart' => 'Kurv',
     'login' => 'Log ind',
     'register' => 'Registrer',
-    'services' => 'Services',
+    'services' => 'Tjenester',
     'invoices' => 'Fakturaer',
     'account' => 'Konto',
     'personal_details' => 'Personoplysninger',

@@ -3,7 +3,7 @@
 return [
     '404' => [
         'title' => 'Halaman Tidak Ditemukan',
-        'message' => 'Maaf, Halaman yang Anda cari tidak dapat ditemukan.',
+        'message' => 'Maaf, halaman yang Anda cari tidak dapat ditemukan.',
         'return_home' => 'Kembali ke Beranda',
     ],
     '500' => [

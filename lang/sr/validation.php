@@ -21,7 +21,7 @@ return [
     'alpha' => 'Polje :attribute može sadržati samo slova.',
     'alpha_dash' => 'Polje :attribute može sadržati samo slova, brojeve, crtice i donje crte.',
     'alpha_num' => 'Polje :attribute može sadržati samo slova i brojeve.',
-    'array' => 'Polje :attribute mora biti niz array.',
+    'array' => 'Polje :attribute mora biti niz.',
     'ascii' => 'Polje :attribute može sadržati samo jednobajtne alfanumeričke znakove i simbole.',
     'before' => 'Polje :attribute mora biti datum pre :date.',
     'before_or_equal' => 'Polje :attribute mora biti datum pre ili jednak :date.',

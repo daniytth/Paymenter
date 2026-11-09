@@ -15,7 +15,7 @@ return [
         'company_name_placeholder' => 'Céged neve',
         'country' => 'Ország',
         'country_placeholder' => 'Országod',
-        'city' => 'Település',
+        'city' => 'Város',
         'city_placeholder' => 'Városod',
         'address' => 'Cím',
         'address_placeholder' => 'Címed',

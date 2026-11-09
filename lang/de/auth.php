@@ -18,7 +18,7 @@ return [
     'throttle' => 'Zu viele Login-Versuche. Bitte versuche es in :seconds Sekunden erneut.',
 
     'sign_in' => 'Anmelden',
-    'sign_in_title' => 'Mit deinem Account anmelden',
+    'sign_in_title' => 'Bei deinem Konto anmelden',
     'or_sign_in_with' => 'Oder anmelden mit',
     'forgot_password' => 'Passwort vergessen?',
     'dont_have_account' => 'Du hast noch kein Konto?',
@@ -31,12 +31,12 @@ return [
 
     'input' => [
         'email' => 'E-Mail',
-        'email_label' => 'E-Mail Adresse',
+        'email_label' => 'E-Mail-Adresse',
         'password' => 'Passwort',
     ],
 
     'oauth' => [
-        'unverified_discord_account' => 'Dein Discord Account ist nicht verifiziert.',
+        'unverified_discord_account' => 'Dein Discord-Konto ist nicht verifiziert.',
         'account_not_registered' => 'Du bist nicht auf dieser Seite registriert.',
     ],
 
@@ -53,7 +53,7 @@ return [
     'verification' => [
         'notice' => 'Bestätige deine E-Mail-Adresse',
         'sent' => 'Ein neuer Bestätigungslink wurde an deine E-Mail-Adresse versendet.',
-        'check_your_email' => 'Bitte überprüfe dein E-Mail Postfach auf eine Nachricht mit dem Bestätigungslink.',
+        'check_your_email' => 'Bitte überprüfe dein E-Mail-Postfach auf eine Nachricht mit dem Bestätigungslink.',
         'not_received' => 'Wenn du die E-Mail nicht erhalten hast, kannst du eine neue anfordern.',
         'request_another' => 'Bestätigungsmail erneut senden',
     ],

@@ -12,7 +12,7 @@ return [
     'personal_details' => 'Személyes adatok',
     'security' => 'Biztonság',
     'dashboard' => 'Vezérlőpult',
-    'tickets' => 'Hibajegyek',
+    'tickets' => 'Ügyfélszolgálati jegyek',
     'admin' => 'Adminisztrátor',
     'notifications' => 'Értesítések',
 ];

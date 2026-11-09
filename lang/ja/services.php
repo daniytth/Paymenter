@@ -56,7 +56,7 @@ return [
     'every_period' => '毎:period:unit',
     'price_every_period' => ':price（毎:period:unit）',
     'price_one_time' => ':price（一回払い）',
-    'renews_in' => '更新まで',
+    'renews_in' => '更新まで :time',
     'renews_on' => '更新日',
     'auto_pay' => '自動支払い方法',
     'auto_pay_not_configured' => '未設定',

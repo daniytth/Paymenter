@@ -19,19 +19,19 @@ return [
 
     'sign_in' => 'Giriş yap',
     'sign_in_title' => 'Hesabınıza giriş yapın',
-    'or_sign_in_with' => 'Ya da şununla giriş yap',
+    'or_sign_in_with' => 'Ya da şununla giriş yapın',
     'forgot_password' => 'Şifrenizi mi unuttunuz?',
     'dont_have_account' => 'Hesabınız yok mu?',
     'already_have_account' => 'Zaten hesabınız var mı?',
 
     'sign_up' => 'Kayıt ol',
-    'sign_up_title' => 'Hesap oluştur',
+    'sign_up_title' => 'Hesap oluşturun',
 
-    'logout' => 'Çıkış Yap',
+    'logout' => 'Çıkış yap',
 
     'input' => [
         'email' => 'E-posta',
-        'email_label' => 'E-Posta Adresi',
+        'email_label' => 'E-posta adresi',
         'password' => 'Şifre',
     ],
 
@@ -42,7 +42,7 @@ return [
 
     'reset_password' => 'Şifreyi sıfırla',
 
-    'verify_2fa' => 'Doğrula (2FA)',
+    'verify_2fa' => '2FA doğrula',
     'verify' => 'Doğrula',
 
     'verification' => [

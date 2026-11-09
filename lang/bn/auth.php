@@ -36,20 +36,20 @@ return [
     ],
 
     'oauth' => [
-        'unverified_discord_account' => 'Your Discord account is not verified.',
-        'account_not_registered' => 'You are not registered on this site.',
+        'unverified_discord_account' => 'আপনার Discord অ্যাকাউন্ট যাচাই করা হয়নি।',
+        'account_not_registered' => 'আপনি এই সাইটে নিবন্ধিত নন।',
     ],
 
-    'reset_password' => 'Reset password',
+    'reset_password' => 'পাসওয়ার্ড রিসেট করুন',
 
-    'verify_2fa' => 'Verify 2FA',
-    'verify' => 'Verify',
+    'verify_2fa' => '2FA যাচাই করুন',
+    'verify' => 'যাচাই করুন',
 
     'verification' => [
-        'notice' => 'Verify your email address',
-        'sent' => 'A new verification link has been sent to your email address.',
-        'check_your_email' => 'Before proceeding, please check your email for a verification link.',
-        'not_received' => 'If you did not receive the email you can request another verification email.',
-        'request_another' => 'Resend verification email',
+        'notice' => 'আপনার ইমেইল ঠিকানা যাচাই করুন',
+        'sent' => 'আপনার ইমেইল ঠিকানায় একটি নতুন যাচাইকরণ লিঙ্ক পাঠানো হয়েছে।',
+        'check_your_email' => 'এগিয়ে যাওয়ার আগে, অনুগ্রহ করে যাচাইকরণ লিঙ্কের জন্য আপনার ইমেইল দেখুন।',
+        'not_received' => 'যদি আপনি ইমেইলটি না পান, তাহলে আপনি আরেকটি যাচাইকরণ ইমেইলের অনুরোধ করতে পারেন।',
+        'request_another' => 'যাচাইকরণ ইমেইল পুনরায় পাঠান',
     ],
 ];

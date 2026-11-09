@@ -20,11 +20,11 @@ return [
 
     'in_stock' => 'В наявності',
     'out_of_stock' => 'Продукт :product відсутній на складі',
-    'not_available' => ':product is not available in your currency',
+    'not_available' => ':product недоступний у вашій валюті',
     'user_limit' => 'Ви досягли ліміту для :product',
     'payment_method' => 'Спосіб оплати',
-    'use_credits' => 'Використання кредитів',
-    'tos' => 'Я згоден з ',
-    'tos_link' => 'Умови використання',
-    'tos_required' => 'Необхідно погодитися з офертою',
+    'use_credits' => 'Використати кредити',
+    'tos' => 'Я погоджуюсь з ',
+    'tos_link' => 'Умовами використання',
+    'tos_required' => 'Необхідно погодитися з умовами використання',
 ];

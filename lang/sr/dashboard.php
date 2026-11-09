@@ -7,5 +7,5 @@ return [
     'open_tickets' => 'Otvoreni tiketi',
     'unpaid_invoices' => 'Neplaćene fakture',
     'active_services' => 'Aktivne usluge',
-    'view_all' => 'Prikaži sve',
+    'view_all' => 'Pogledaj sve',
 ];

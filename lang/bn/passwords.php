@@ -2,10 +2,10 @@
 
 return [
 
-    'reset' => 'Your password has been reset.',
-    'sent' => 'We have emailed your password reset link.',
-    'throttled' => 'Please wait before retrying.',
-    'token' => 'This password reset token is invalid.',
-    'user' => "We can't find a user with that email address.",
+    'reset' => 'আপনার পাসওয়ার্ড রিসেট করা হয়েছে।',
+    'sent' => 'আমরা আপনার পাসওয়ার্ড রিসেট লিঙ্ক ইমেইল করেছি।',
+    'throttled' => 'আবার চেষ্টা করার আগে অনুগ্রহ করে অপেক্ষা করুন।',
+    'token' => 'এই পাসওয়ার্ড রিসেট টোকেনটি অবৈধ।',
+    'user' => 'আমরা সেই ইমেইল ঠিকানার কোনো ব্যবহারকারী খুঁজে পাচ্ছি না।',
 
 ];

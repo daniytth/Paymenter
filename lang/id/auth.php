@@ -14,7 +14,7 @@ return [
     */
 
     'failed' => 'Kredensial ini tidak sesuai dengan data di dalam sistem kami.',
-    'password' => 'Kata sandi yand diberikan salah.',
+    'password' => 'Kata sandi yang diberikan salah.',
     'throttle' => 'Terlalu banyak upaya login. Silakan coba lagi dalam :seconds detik.',
 
     'sign_in' => 'Masuk',
@@ -36,7 +36,7 @@ return [
     ],
 
     'oauth' => [
-        'unverified_discord_account' => '.',
+        'unverified_discord_account' => 'Akun Discord Anda belum diverifikasi.',
         'account_not_registered' => 'Anda tidak terdaftar di situs ini.',
     ],
 
@@ -47,8 +47,8 @@ return [
 
     'verification' => [
         'notice' => 'Verifikasi alamat email Anda',
-        'sent' => 'Tautan verifikasi baru telah dikirim ke alamat email kamu.',
-        'check_your_email' => 'Sebelum melanjutkan, periksa email kamu untuk tautan verifikasi.',
+        'sent' => 'Tautan verifikasi baru telah dikirim ke alamat email Anda.',
+        'check_your_email' => 'Sebelum melanjutkan, periksa email Anda untuk tautan verifikasi.',
         'not_received' => 'Jika Anda tidak menerima email, Anda dapat meminta email verifikasi baru.',
         'request_another' => 'Kirim ulang email verifikasi',
     ],

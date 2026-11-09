@@ -10,7 +10,7 @@ return [
     'subtotal' => 'Subtotal',
     'total' => 'Total',
 
-    'then_after_x' => 'Setelah pukul :time',
+    'then_after_x' => 'Setelah :time',
     'order_summary' => 'Ringkasan Pesanan',
     'edit' => 'Ubah',
 
@@ -20,8 +20,8 @@ return [
 
     'in_stock' => 'Tersedia',
     'out_of_stock' => ':product tidak tersedia',
-    'not_available' => ':product is not available in your currency',
-    'user_limit' => 'Anda telah mencapai batas untuk :produk',
+    'not_available' => ':product tidak tersedia dalam mata uang Anda',
+    'user_limit' => 'Anda telah mencapai batas untuk :product',
     'payment_method' => 'Metode pembayaran',
     'use_credits' => 'Gunakan Kredit',
     'tos' => 'Saya setuju dengan ',

@@ -3,7 +3,7 @@
 return [
     'add_to_cart' => 'Lägg till i varukorg',
     'view' => 'Visa',
-    'checkout' => 'Checka ut',
+    'checkout' => 'Gå till kassan',
     'remove' => 'Ta bort',
     'empty_cart' => 'Din varukorg är tom',
     'total_today' => 'Totalt idag',
@@ -20,11 +20,11 @@ return [
 
     'in_stock' => 'I lager',
     'out_of_stock' => 'Produkten :product är slut i lager',
-    'not_available' => ':product is not available in your currency',
+    'not_available' => ':product är inte tillgänglig i din valuta',
     'user_limit' => 'Du har nått gränsen för :product',
     'payment_method' => 'Betalningsmetod',
-    'use_credits' => 'Använd kredit',
-    'tos' => 'Jag samtycker till',
-    'tos_link' => 'Användarvillkor',
+    'use_credits' => 'Använd krediter',
+    'tos' => 'Jag samtycker till ',
+    'tos_link' => 'Användarvillkoren',
     'tos_required' => 'Du måste acceptera användarvillkoren',
 ];

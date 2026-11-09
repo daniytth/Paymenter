@@ -3,8 +3,8 @@
 return [
     '404' => [
         'title' => 'Nie znaleziono strony',
-        'message' => 'Sorry, the page you are looking for could not be found.',
-        'return_home' => 'Back to Home',
+        'message' => 'Przepraszamy, nie można znaleźć strony, której szukasz.',
+        'return_home' => 'Powrót do strony głównej',
     ],
     '500' => [
         'title' => 'Błąd serwera',

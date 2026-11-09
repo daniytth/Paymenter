@@ -1,15 +1,14 @@
 <?php
 
 return [
-    '' => '',
 
     'button' => [
-        'view' => 'View',
-        'view_all' => 'View All',
+        'view' => 'देखें',
+        'view_all' => 'सभी देखें',
     ],
-    'confirm' => 'Confirm',
-    'cancel' => 'Cancel',
+    'confirm' => 'पुष्टि करें',
+    'cancel' => 'रद्द करें',
     'select' => [
-        'placeholder' => 'Please select :name',
+        'placeholder' => 'कृपया :name चुनें',
     ],
 ];

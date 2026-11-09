@@ -126,15 +126,15 @@ return [
     'present' => ':attribute फ़ील्ड मौजूद होना चाहिए।',
     'present_if' => 'जब :other :value हो तो :attribute फ़ील्ड अवश्य मौजूद होना चाहिए।',
     'present_unless' => ':attribute फ़ील्ड तब तक मौजूद रहना चाहिए जब तक :other :value न हो।',
-    'present_with' => ':values ​​मौजूद होने पर :attribute फ़ील्ड मौजूद होना चाहिए।',
-    'present_with_all' => 'जब :values ​​मौजूद हों तो :attribute फ़ील्ड मौजूद होना चाहिए.जब :values ​​मौजूद हों तो :attribute फ़ील्ड मौजूद होना चाहिए.',
+    'present_with' => ':values मौजूद होने पर :attribute फ़ील्ड मौजूद होना चाहिए।',
+    'present_with_all' => 'जब :values मौजूद हों तो :attribute फ़ील्ड मौजूद होना चाहिए।',
     'prohibited' => ':attribute फ़ील्ड प्रतिबंधित है।',
     'prohibited_if' => ':attribute फ़ील्ड को :other के :value होने पर प्रतिबंधित किया गया है।',
     'prohibited_unless' => ':attribute फ़ील्ड को :other के :value होने तक प्रतिबंधित किया गया है।',
     'prohibits' => ':attribute फ़ील्ड :other को उपस्थित होने से रोकता है।',
     'regex' => ':attribute फ़ील्ड का प्रारूप अवैध है।',
     'required' => ':attribute फ़ील्ड आवश्यक है।',
-    'required_array_keys' => ':attribute फ़ील्ड में :values ​​के लिए प्रविष्टियाँ होनी चाहिए।',
+    'required_array_keys' => ':attribute फ़ील्ड में :values के लिए प्रविष्टियाँ होनी चाहिए।',
     'required_if' => ':attribute फ़ील्ड आवश्यक है जब :other :value हो।',
     'required_if_accepted' => 'जब :other स्वीकार किया जाता है तो :attribute फ़ील्ड आवश्यक है।',
     'required_unless' => ':attribute फ़ील्ड आवश्यक है जब तक :other :value न हो।',
@@ -172,7 +172,7 @@ return [
 
     'custom' => [
         'attribute-name' => [
-            'rule-name' => 'सीमा शुल्क संदेश',
+            'rule-name' => 'कस्टम संदेश',
         ],
     ],
 

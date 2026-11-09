@@ -7,6 +7,6 @@ return [
     'throttled' => 'Odota hetki ennen kuin yrität uudelleen.',
     'token' => 'Salasanan palautusavain on virheellinen.',
     'user' => 'Emme löydä käyttäjää, jolla on kyseinen sähköpostiosoite.',
-    'sent_if_exists' => 'If the email address is associated with an account, you will receive an email with instructions on how to reset your password.',
+    'sent_if_exists' => 'Jos sähköpostiosoite on liitetty tiliin, saat sähköpostiviestin, jossa on ohjeet salasanasi nollaamiseen.',
 
 ];

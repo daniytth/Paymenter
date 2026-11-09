@@ -3,7 +3,7 @@
 return [
     'dashboard_title' => 'Dasbor',
     'welcome_back' => 'Selamat datang kembali, :name!',
-    'dashboard_description' => 'Kelola layanan aktif, faktur, tiket Anda, dan tetap update disini.',
+    'dashboard_description' => 'Kelola layanan aktif, faktur, dan tiket Anda, serta tetap update di sini.',
     'open_tickets' => 'Tiket Terbuka',
     'unpaid_invoices' => 'Tagihan belum dibayar',
     'active_services' => 'Layanan Aktif',

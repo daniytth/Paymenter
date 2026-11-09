@@ -1,15 +1,14 @@
 <?php
 
 return [
-    '' => '',
 
     'button' => [
-        'view' => 'View',
-        'view_all' => 'View All',
+        'view' => 'Bekijken',
+        'view_all' => 'Alles bekijken',
     ],
-    'confirm' => 'Confirm',
-    'cancel' => 'Cancel',
+    'confirm' => 'Bevestigen',
+    'cancel' => 'Annuleren',
     'select' => [
-        'placeholder' => 'Please select :name',
+        'placeholder' => 'Selecteer :name',
     ],
 ];

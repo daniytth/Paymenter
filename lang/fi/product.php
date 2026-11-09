@@ -3,7 +3,7 @@
 return [
     'add_to_cart' => 'Lisää ostoskoriin',
     'view' => 'Näytä',
-    'checkout' => 'Ostoskori',
+    'checkout' => 'Siirry kassalle',
     'remove' => 'Poista',
     'empty_cart' => 'Ostoskorisi on tyhjä',
     'total_today' => 'Yhteensä tänään',
@@ -20,7 +20,7 @@ return [
 
     'in_stock' => 'Varastossa',
     'out_of_stock' => 'Tuote :product on loppunut varastosta',
-    'not_available' => ':product is not available in your currency',
+    'not_available' => ':product ei ole saatavilla valuutassasi',
     'user_limit' => 'Olet saavuttanut :product tuotteen maksimirajan',
     'payment_method' => 'Maksutapa',
     'use_credits' => 'Käytä krediittejä',

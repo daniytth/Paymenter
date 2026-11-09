@@ -1,15 +1,14 @@
 <?php
 
 return [
-    '' => '',
 
     'button' => [
         'view' => 'Görüntüle',
-        'view_all' => 'Tümünü Görüntüle',
+        'view_all' => 'Tümünü görüntüle',
     ],
     'confirm' => 'Onayla',
     'cancel' => 'İptal',
     'select' => [
-        'placeholder' => 'Please select :name',
+        'placeholder' => 'Lütfen :name seçin',
     ],
 ];

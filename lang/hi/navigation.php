@@ -14,5 +14,5 @@ return [
     'dashboard' => 'डैशबोर्ड',
     'tickets' => 'टिकट्स',
     'admin' => 'एडमिन',
-    'notifications' => 'Notifications',
+    'notifications' => 'सूचनाएं',
 ];

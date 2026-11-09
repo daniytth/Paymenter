@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'add_to_cart' => 'Megrendelés',
+    'add_to_cart' => 'Kosárba tesz',
     'view' => 'Megtekintés',
     'checkout' => 'Fizetés',
     'remove' => 'Eltávolítás',
@@ -20,7 +20,7 @@ return [
 
     'in_stock' => 'Elérhető',
     'out_of_stock' => 'A(z) :product nincs készleten',
-    'not_available' => ':product is not available in your currency',
+    'not_available' => ':product nem érhető el az általad használt pénznemben',
     'user_limit' => 'Már elérted a(z) :product maximális mennyiségét',
     'payment_method' => 'Fizetési mód',
     'use_credits' => 'Kredit használata',

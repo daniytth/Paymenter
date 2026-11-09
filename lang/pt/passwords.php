@@ -7,6 +7,6 @@ return [
     'throttled' => 'Por favor, aguarde antes de tentar novamente.',
     'token' => 'O token de redefinição de senha é inválido.',
     'user' => 'Não foi encontrado nenhum usuário com este endereço de e-mail.',
-    'sent_if_exists' => 'If the email address is associated with an account, you will receive an email with instructions on how to reset your password.',
+    'sent_if_exists' => 'Se o endereço de e-mail estiver associado a uma conta, você receberá um e-mail com instruções sobre como redefinir sua senha.',
 
 ];

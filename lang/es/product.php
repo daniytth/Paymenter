@@ -19,8 +19,8 @@ return [
     'setup_fee' => 'Tarifa de instalación',
 
     'in_stock' => 'En stock',
-    'out_of_stock' => 'El producto :product está fuera de stock',
-    'not_available' => ':product no está disponible en su moneda',
+    'out_of_stock' => 'El producto :product está agotado',
+    'not_available' => ':product no está disponible en tu moneda',
     'user_limit' => 'Has alcanzado el límite de :product',
     'payment_method' => 'Método de pago',
     'use_credits' => 'Usar créditos',

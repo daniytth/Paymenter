@@ -1,15 +1,14 @@
 <?php
 
 return [
-    '' => '',
 
     'button' => [
-        'view' => 'View',
-        'view_all' => 'View All',
+        'view' => 'הצג',
+        'view_all' => 'הצג הכל',
     ],
-    'confirm' => 'Confirm',
-    'cancel' => 'Cancel',
+    'confirm' => 'אישור',
+    'cancel' => 'ביטול',
     'select' => [
-        'placeholder' => 'Please select :name',
+        'placeholder' => 'אנא בחר :name',
     ],
 ];

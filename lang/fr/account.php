@@ -46,7 +46,7 @@ return [
         'two_factor_disabled' => 'La double authentification a été désactivée.',
         'two_factor_code_incorrect' => 'Le code est incorrect.',
         'session_logged_out' => 'La session a été déconnectée.',
-        'unauthorized' => 'This action is not allowed.',
+        'unauthorized' => 'Cette action n\'est pas autorisée.',
     ],
 
     'no_credit' => 'Vous n\'avez aucun crédit.',
@@ -58,7 +58,7 @@ return [
     'saved_payment_methods' => 'Méthodes de paiement enregistrées',
     'setup_payment_method' => 'Configurer un nouveau mode de paiement',
     'no_saved_payment_methods' => 'Vous n\'avez actuellement aucun mode de paiement enregistré.',
-    'saved_payment_methods_description' => 'Gérez vos modes de paiement enregistrés pour des commandes plus rapide et des paiements automatiques.',
+    'saved_payment_methods_description' => 'Gérez vos modes de paiement enregistrés pour des commandes plus rapides et des paiements automatiques.',
     'no_saved_payment_methods_description' => 'Vous pouvez ajouter une méthode de paiement pour rendre les paiements futurs plus rapides et plus simples. Mais aussi, activer les paiements automatiques pour vos services.',
     'add_payment_method' => 'Ajouter un mode de paiement',
     'payment_method_statuses' => [
@@ -76,7 +76,7 @@ return [
     'expires' => 'Expire le :date',
     'cancel' => 'Annuler',
     'confirm' => 'Confirmer la suppression',
-    'email_notifications' => 'Notifications d\'email',
+    'email_notifications' => 'Notifications par e-mail',
     'in_app_notifications' => 'Notifications dans l\'application',
     'notifications_description' => 'Gérez vos préférences de notification. Vous pouvez choisir de recevoir des notifications par e-mail, dans l\'application (push), ou les deux.',
     'notification' => 'Notification',
@@ -87,6 +87,6 @@ return [
     'push_status' => [
         'not_supported' => 'Les notifications push ne sont pas prises en charge par votre navigateur.',
         'denied' => 'Les notifications push sont bloquées. Veuillez les activer dans les paramètres de votre navigateur.',
-        'subscribed' => 'Les notifications push sont activées',
+        'subscribed' => 'Les notifications push sont activées.',
     ],
 ];

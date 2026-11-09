@@ -30,7 +30,7 @@ return [
     'logout' => 'Cerrar sesión',
 
     'input' => [
-        'email' => 'Email',
+        'email' => 'Correo electrónico',
         'email_label' => 'Correo electrónico',
         'password' => 'Contraseña',
     ],
@@ -46,7 +46,7 @@ return [
     'verify' => 'Verificar',
 
     'verification' => [
-        'notice' => 'Verificar tu dirección de correo electrónico',
+        'notice' => 'Verifica tu dirección de correo electrónico',
         'sent' => 'Un nuevo enlace de verificación ha sido enviado a tu dirección de correo electrónico.',
         'check_your_email' => 'Antes de proceder, por favor revisa tu correo electrónico en busca de un enlace de verificación.',
         'not_received' => 'Si no has recibido el correo electrónico, puedes solicitar otro correo de verificación.',

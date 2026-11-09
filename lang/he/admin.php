@@ -3,12 +3,12 @@
 return [
 
     'cronjob' => [
-        'invoices_created' => 'Invoices created',
-        'orders_cancelled' => 'Orders cancelled',
-        'upgrade_invoices_updated' => 'Upgrade invoices updated',
-        'services_suspended' => 'Services suspended',
-        'services_terminated' => 'Services terminated',
-        'tickets_closed' => 'Tickets closed',
-        'email_logs_deleted' => 'Email logs deleted',
+        'invoices_created' => 'חשבוניות נוצרו',
+        'orders_cancelled' => 'הזמנות בוטלו',
+        'upgrade_invoices_updated' => 'חשבוניות שדרוג עודכנו',
+        'services_suspended' => 'שירותים הושעו',
+        'services_terminated' => 'שירותים הופסקו',
+        'tickets_closed' => 'פניות נסגרו',
+        'email_logs_deleted' => 'יומני אימייל נמחקו',
     ],
 ];

@@ -30,7 +30,7 @@ return [
         'password_placeholder' => 'Ваш пароль',
 
         'password_confirmation' => 'Підтвердьте пароль',
-        'password_confirmation_placeholder' => 'Підтвердити пароль',
+        'password_confirmation_placeholder' => 'Підтвердьте пароль',
     ],
 
     'all_rights_reserved' => 'Всі права захищені.',

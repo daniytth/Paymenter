@@ -20,7 +20,7 @@ return [
     'cancel_end_of_period' => 'Cancelar al final del período de facturación',
     'cancel_immediate_warning' => 'Al pulsar el botón de abajo, el servicio se cancelará inmediatamente y ya no podrás utilizarlo.',
     'cancellation_requested' => 'Cancelación solicitada',
-    'not_cancellable' => 'This service cannot be cancelled',
+    'not_cancellable' => 'Este servicio no se puede cancelar',
 
     'current_plan' => 'Plan actual',
     'new_plan' => 'Nuevo plan',
@@ -35,7 +35,7 @@ return [
     'upgrade_choose_config' => 'Elige la configuración para la mejora',
     'next_step' => 'Siguiente paso',
 
-    'upgrade_pending' => 'No es posible realizar una actualización si ya existe una factura de mejora/disminución abierta',
+    'upgrade_pending' => 'No es posible realizar una actualización si ya existe una factura de actualización/degradación abierta',
 
     'outstanding_invoice' => 'Tienes una factura pendiente.',
     'view_and_pay' => 'Haz clic aquí para ver y pagar',
@@ -57,8 +57,8 @@ return [
     'price_every_period' => ':price por :period :unit',
     'price_one_time' => ':price una sola vez',
     'renews_in' => 'Renueva en',
-    'renews_on' => 'Se renueva él',
-    'auto_pay' => 'Auto pago usando',
+    'renews_on' => 'Se renueva el',
+    'auto_pay' => 'Pago automático usando',
     'auto_pay_not_configured' => 'No configurado',
 
     'no_services' => 'No se encontraron servicios',
@@ -67,10 +67,10 @@ return [
     'select_billing_agreement' => 'Seleccionar acuerdo de facturación',
 
     'remove_payment_method' => 'Eliminar método de pago',
-    'remove_payment_method_confirm' => '¿Está seguro que desea eliminar el método de pago ":name" de este servicio? Su servicio ya no podrá pagar sus facturas automáticamente.',
+    'remove_payment_method_confirm' => '¿Estás seguro de que deseas eliminar el método de pago ":name" de este servicio? Tu servicio ya no podrá pagar sus facturas automáticamente.',
 
     'label' => 'Etiqueta',
-    'label_placeholder' => 'Introduzca una etiqueta personalizada para este servicio',
+    'label_placeholder' => 'Introduce una etiqueta personalizada para este servicio',
     'label_modal_title' => 'Editar etiqueta del servicio',
     'update_label' => 'Actualizar etiqueta',
 

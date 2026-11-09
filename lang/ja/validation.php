@@ -117,7 +117,7 @@ return [
     'not_regex' => ':attributeの形式が正しくありません。',
     'numeric' => ':attributeは数値にしてください。',
     'password' => [
-        'letters' => ':attributeには数字・記号以外の文字を1文字以上含めてください。',
+        'letters' => ':attributeには文字を1文字以上含めてください。',
         'mixed' => ':attributeには大文字と小文字をそれぞれ1文字以上含めてください。',
         'numbers' => ':attributeには数字を1文字以上含めてください。',
         'symbols' => ':attributeには記号を1文字以上含めてください。',
@@ -172,7 +172,7 @@ return [
 
     'custom' => [
         'attribute-name' => [
-            'rule-name' => 'custom-message',
+            'rule-name' => 'カスタムメッセージ',
         ],
     ],
 

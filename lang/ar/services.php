@@ -12,7 +12,7 @@ return [
     'product_details' => 'تفاصيل المنتج',
     'billing_cycle' => 'الفوترة',
     'cancel' => 'إلغاء',
-    'cancellation' => 'إلغاء :Service',
+    'cancellation' => 'إلغاء :service',
     'cancel_are_you_sure' => 'هل أنت متأكد من أنك تريد إلغاء هذه الخدمة؟',
     'cancel_reason' => 'سبب الإلغاء',
     'cancel_type' => 'نوع الإلغاء',
@@ -20,7 +20,7 @@ return [
     'cancel_end_of_period' => 'إلغاء في نهاية فترة الفاتورة',
     'cancel_immediate_warning' => 'عند الضغط على الزر أدناه، سيتم إلغاء الخدمة فورًا ولن تتمكن من استخدامها بعد الآن.',
     'cancellation_requested' => 'تم طلب الإلغاء',
-    'not_cancellable' => 'This service cannot be cancelled',
+    'not_cancellable' => 'لا يمكن إلغاء هذه الخدمة',
 
     'current_plan' => 'الخطة الحالية',
     'new_plan' => 'الخطة الجديدة',
@@ -31,7 +31,7 @@ return [
     'upgrade_summary' => 'ملخص الترقية',
     'total_today' => 'إجمالي اليوم',
     'upgrade_service' => 'ترقية الخدمة',
-    'upgrade_choose_product' => 'اختر منتج للترقية إليه',
+    'upgrade_choose_product' => 'اختر المنتج الذي تريد الترقية إليه',
     'upgrade_choose_config' => 'اختر إعدادات الترقية',
     'next_step' => 'الخطوة التالية',
 
@@ -45,7 +45,7 @@ return [
         'active' => 'نشط',
         'cancelled' => 'ملغاة',
         'suspended' => 'معلق',
-        'cancellation_pending' => 'الإلغاء تحت الإنتظار',
+        'cancellation_pending' => 'الإلغاء قيد الانتظار',
     ],
     'billing_cycles' => [
         'day' => 'يوم|أيام',
@@ -53,12 +53,12 @@ return [
         'month' => 'شهر|شهور',
         'year' => 'سنة|سنين',
     ],
-    'every_period' => 'كل :period :Unit',
-    'price_every_period' => ':price لكل :period :Unit',
+    'every_period' => 'كل :period :unit',
+    'price_every_period' => ':price لكل :period :unit',
     'price_one_time' => ':price مرة واحدة',
-    'renews_in' => 'Renews in',
-    'renews_on' => 'Renews on',
-    'auto_pay' => 'دفع تلقائي بإستخدام',
+    'renews_in' => 'يتجدد خلال',
+    'renews_on' => 'يتجدد في',
+    'auto_pay' => 'دفع تلقائي باستخدام',
     'auto_pay_not_configured' => 'لم يتم الإعداد',
 
     'no_services' => 'لا توجد خدمات',
@@ -69,9 +69,9 @@ return [
     'remove_payment_method' => 'إزالة طريقة الدفع',
     'remove_payment_method_confirm' => 'هل أنت متأكد من أنك تريد إزالة طريقة الدفع ":name" من هذه الخدمة؟ لن تتمكن خدمتك بعد الآن من دفع الفواتير تلقائيًا.',
 
-    'label' => 'Label',
-    'label_placeholder' => 'Enter a custom label for this service',
-    'label_modal_title' => 'Edit Service Label',
-    'update_label' => 'Update Label',
+    'label' => 'التسمية',
+    'label_placeholder' => 'أدخل تسمية مخصصة لهذه الخدمة',
+    'label_modal_title' => 'تعديل تسمية الخدمة',
+    'update_label' => 'تحديث التسمية',
 
 ];

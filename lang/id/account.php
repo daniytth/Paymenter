@@ -15,7 +15,7 @@ return [
     'two_factor_authentication_disable' => 'Nonaktifkan autentikasi dua faktor',
     'two_factor_authentication_disable_description' => 'Apakah Anda yakin ingin menonaktifkan autentikasi dua faktor? Ini akan menghapus lapisan keamanan tambahan dari akun Anda.',
     'two_factor_authentication_enable_description' => 'Untuk mengaktifkan autentikasi dua faktor, Anda perlu memindai kode QR di bawah ini menggunakan aplikasi autentikator seperti Google Authenticator atau Authy.',
-    'two_factor_authentication_qr_code' => 'Pindah kode QR di bawah ini menggunakan aplikasi autentikator anda:',
+    'two_factor_authentication_qr_code' => 'Pindai kode QR di bawah ini menggunakan aplikasi autentikator Anda:',
     'two_factor_authentication_secret' => 'Atau masukkan kode berikut secara manual:',
 
     'sessions' => 'Sesi',
@@ -46,7 +46,7 @@ return [
         'two_factor_disabled' => 'Autentikasi dua langkah telah dinonaktifkan.',
         'two_factor_code_incorrect' => 'Kode yang Anda berikan salah.',
         'session_logged_out' => 'Sesi telah dikeluarkan.',
-        'unauthorized' => 'This action is not allowed.',
+        'unauthorized' => 'Tindakan ini tidak diizinkan.',
     ],
 
     'no_credit' => 'Anda tidak memiliki kredit.',
@@ -71,7 +71,7 @@ return [
     'payment_method_add_failed' => 'Gagal menambahkan metode pembayaran. Silakan coba lagi.',
     'services_linked' => ':count layanan terhubung',
     'remove' => 'Hapus',
-    'remove_payment_method' => 'Hilangkan metode pembayaran',
+    'remove_payment_method' => 'Hapus metode pembayaran',
     'remove_payment_method_confirm' => 'Apakah Anda yakin ingin menghapus :name? Tindakan ini tidak bisa dibatalkan.',
     'expires' => 'Berakhir pada :date',
     'cancel' => 'Batalkan',

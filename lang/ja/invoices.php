@@ -34,7 +34,7 @@ return [
     'amount' => '金額',
     'date' => '日付',
     'due_date' => '支払期限',
-    'payment_for_invoice' => '請求書 #:number の支払い',
+    'payment_for_invoice' => '請求書 #:id の支払い',
     'payment_for_proforma_invoice' => '仮請求書 #:id の支払い',
     'transaction_statuses' => [
         'succeeded' => '成功',

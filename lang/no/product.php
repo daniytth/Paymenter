@@ -12,11 +12,11 @@ return [
 
     'then_after_x' => 'Så etter :time',
     'order_summary' => 'Ordreoversikt',
-    'edit' => 'Redigere',
+    'edit' => 'Rediger',
 
     'apply' => 'Bruk',
     'price' => 'Pris',
-    'setup_fee' => 'Oppsett gebyr',
+    'setup_fee' => 'Oppsettgebyr',
 
     'in_stock' => 'På lager',
     'out_of_stock' => 'Produktet :product er ikke på lager',

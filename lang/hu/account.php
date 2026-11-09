@@ -21,7 +21,7 @@ return [
     'sessions' => 'Munkamenetek',
     'sessions_description' => 'Kezeld, és jelentkezz ki aktív munkameneteidből más böngészőkön és eszközökön.',
     'logout_sessions' => 'Ez a munkamenet kijelentkeztetése',
-    'current_device' => 'Current device',
+    'current_device' => 'Jelenlegi eszköz',
 
     'input' => [
         'current_password' => 'Jelenlegi jelszó',
@@ -46,7 +46,7 @@ return [
         'two_factor_disabled' => 'Kétlépcsős azonosítás letiltva.',
         'two_factor_code_incorrect' => 'A kód helytelen.',
         'session_logged_out' => 'A munkamenet ki lett jelentkeztetve.',
-        'unauthorized' => 'This action is not allowed.',
+        'unauthorized' => 'Ez a művelet nem engedélyezett.',
     ],
 
     'no_credit' => 'Nincs kredited.',
@@ -72,7 +72,7 @@ return [
     'services_linked' => 'A(z) :count szolgáltatás(ok) összekapcsolva',
     'remove' => 'Eltávolítás',
     'remove_payment_method' => 'Fizetési mód eltávolítása',
-    'remove_payment_method_confirm' => 'Biztosan törölni szeretnéd a(z) :name felhasználót? Ez a művelet nem vonható vissza.',
+    'remove_payment_method_confirm' => 'Biztosan eltávolítod a(z) :name fizetési módot? Ez a művelet nem vonható vissza.',
     'expires' => 'Lejár :date',
     'cancel' => 'Mégsem',
     'confirm' => 'Igen, eltávolítom',

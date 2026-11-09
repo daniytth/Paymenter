@@ -12,11 +12,11 @@ return [
     'attachments' => 'Archivos',
     'upload_attachments' => 'Subir archivos',
     'or_drag_and_drop' => 'o arrastra y suelta',
-    'files_max' => 'Archivos de hasta 10 Mb',
+    'files_max' => 'Archivos de hasta 10 MB',
     'selected_files' => 'Archivos seleccionados',
     'uploading_files' => 'Subiendo archivos',
     'close_ticket' => 'Cerrar Ticket',
-    'close_ticket_confirmation' => '¿Está seguro de que desea cerrar este ticket? Esta acción no se puede deshacer.',
+    'close_ticket_confirmation' => '¿Estás seguro de que deseas cerrar este ticket? Esta acción no se puede deshacer.',
     'close_ticket_success' => 'Ticket cerrado exitosamente.',
     'close_ticket_already_closed' => 'Este ticket ya está cerrado.',
 

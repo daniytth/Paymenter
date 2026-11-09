@@ -6,7 +6,7 @@ return [
     'checkout' => 'Plaćanje',
     'remove' => 'Ukloni',
     'empty_cart' => 'Vaša korpa je prazna',
-    'total_today' => 'Ukupna cena porudžbine',
+    'total_today' => 'Ukupan iznos danas',
     'subtotal' => 'Međuzbir',
     'total' => 'Ukupno',
 
@@ -24,7 +24,7 @@ return [
     'user_limit' => 'Dostigli ste limit za :product',
     'payment_method' => 'Način plaćanja',
     'use_credits' => 'Iskoristi kredite',
-    'tos' => 'Slažem se sa',
-    'tos_link' => 'Uslovi korišćenja',
+    'tos' => 'Slažem se sa ',
+    'tos_link' => 'Uslovima korišćenja',
     'tos_required' => 'Potrebno je da prihvatite Uslove korišćenja',
 ];

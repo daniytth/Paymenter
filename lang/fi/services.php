@@ -13,14 +13,14 @@ return [
     'billing_cycle' => 'Laskutusjakso',
     'cancel' => 'Peruuta',
     'cancellation' => 'Palvelun :service peruminen',
-    'cancel_are_you_sure' => 'Oletko varma, että haluat perua tämän palvelen?',
+    'cancel_are_you_sure' => 'Oletko varma, että haluat perua tämän palvelun?',
     'cancel_reason' => 'Perumisen syy',
     'cancel_type' => 'Perumisen tyyppi',
     'cancel_immediate' => 'Peruuta välittömästi',
     'cancel_end_of_period' => 'Peruuta tilaus laskutusjakson päättyessä',
     'cancel_immediate_warning' => 'Kun painat alla olevaa painiketta, palvelu perutaan välittömästi, etkä voi enää käyttää sitä.',
     'cancellation_requested' => 'Peruutusta pyydetty',
-    'not_cancellable' => 'This service cannot be cancelled',
+    'not_cancellable' => 'Tätä palvelua ei voi peruuttaa',
 
     'current_plan' => 'Tämänhetkinen tilaus',
     'new_plan' => 'Uusi tilaus',
@@ -31,14 +31,14 @@ return [
     'upgrade_summary' => 'Päivityksen yhteenveto',
     'total_today' => 'Yhteensä tänään',
     'upgrade_service' => 'Päivitä palvelu',
-    'upgrade_choose_product' => 'Valitse tuote johon haluat päivittää',
-    'upgrade_choose_config' => 'Valitse päivityksen konfiguraatio',
+    'upgrade_choose_product' => 'Valitse tuote, johon haluat päivittää',
+    'upgrade_choose_config' => 'Valitse päivityksen kokoonpano',
     'next_step' => 'Seuraava vaihe',
 
-    'upgrade_pending' => 'Et voi päivittää vaikka päivitys/alennuslasku on jo auki',
+    'upgrade_pending' => 'Et voi päivittää, koska päivitys-/alennuslasku on jo avoinna',
 
     'outstanding_invoice' => 'Sinulla on maksamaton lasku.',
-    'view_and_pay' => 'Klikkaa tästä nähdäksesi ja maksaa',
+    'view_and_pay' => 'Klikkaa tästä nähdäksesi ja maksaaksesi',
 
     'statuses' => [
         'pending' => 'Odottaa',
