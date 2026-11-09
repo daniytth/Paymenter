@@ -34,7 +34,7 @@ return [
     'amount' => 'Beløp',
     'date' => 'Dato',
     'due_date' => 'Forfallsdato',
-    'payment_for_invoice' => 'Betaling for faktura #:id',
+    'payment_for_invoice' => 'Betaling for faktura #:number',
     'payment_for_proforma_invoice' => 'Betaling for proformafaktura #:id',
     'transaction_statuses' => [
         'succeeded' => 'Vellykket',

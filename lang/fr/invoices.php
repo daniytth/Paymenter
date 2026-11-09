@@ -34,7 +34,7 @@ return [
     'amount' => 'Montant',
     'date' => 'Date',
     'due_date' => 'Date d\'échéance',
-    'payment_for_invoice' => 'Paiement pour la facture #:id',
+    'payment_for_invoice' => 'Paiement pour la facture #:number',
     'payment_for_proforma_invoice' => 'Paiement pour la facture proforma #:id',
     'transaction_statuses' => [
         'succeeded' => 'Réussie',

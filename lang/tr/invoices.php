@@ -34,7 +34,7 @@ return [
     'amount' => 'Tutar',
     'date' => 'Tarih',
     'due_date' => 'Son ödeme tarihi',
-    'payment_for_invoice' => '#:id numaralı faturanın ödemesi',
+    'payment_for_invoice' => '#:number numaralı faturanın ödemesi',
     'payment_for_proforma_invoice' => '#:id numaralı proforma faturanın ödemesi',
     'transaction_statuses' => [
         'succeeded' => 'Başarılı',

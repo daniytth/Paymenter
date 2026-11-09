@@ -34,7 +34,7 @@ return [
     'amount' => 'Iznos',
     'date' => 'Datum',
     'due_date' => 'Rok plaćanja',
-    'payment_for_invoice' => 'Plaćanje za fakturu #:id',
+    'payment_for_invoice' => 'Plaćanje za fakturu #:number',
     'payment_for_proforma_invoice' => 'Plaćanje za profakturu #:id',
     'transaction_statuses' => [
         'succeeded' => 'Uspešno',

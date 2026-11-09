@@ -34,7 +34,7 @@ return [
     'amount' => 'Bedrag',
     'date' => 'Datum',
     'due_date' => 'Vervaldatum',
-    'payment_for_invoice' => 'Betaling voor factuur #:id',
+    'payment_for_invoice' => 'Betaling voor factuur #:number',
     'payment_for_proforma_invoice' => 'Betaling voor proformafactuur #:id',
     'transaction_statuses' => [
         'succeeded' => 'Geslaagd',

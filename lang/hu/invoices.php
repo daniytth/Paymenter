@@ -34,7 +34,7 @@ return [
     'amount' => 'Összeg',
     'date' => 'Dátum',
     'due_date' => 'Fizetési határidő',
-    'payment_for_invoice' => 'Fizetés a(z) #:id számú díjbekérőhöz',
+    'payment_for_invoice' => 'Fizetés a(z) #:number számú díjbekérőhöz',
     'payment_for_proforma_invoice' => 'Fizetés a(z) #:id számú proforma számlához',
     'transaction_statuses' => [
         'succeeded' => 'Sikeres',

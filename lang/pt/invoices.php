@@ -34,7 +34,7 @@ return [
     'amount' => 'Valor',
     'date' => 'Data',
     'due_date' => 'Data de vencimento',
-    'payment_for_invoice' => 'Pagamento da fatura #:id',
+    'payment_for_invoice' => 'Pagamento da fatura #:number',
     'payment_for_proforma_invoice' => 'Pagamento da fatura proforma #:id',
     'transaction_statuses' => [
         'succeeded' => 'Concluído',

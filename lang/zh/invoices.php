@@ -34,7 +34,7 @@ return [
     'amount' => '金額',
     'date' => '日期',
     'due_date' => '截止日期',
-    'payment_for_invoice' => '支付帳單 #:id',
+    'payment_for_invoice' => '支付帳單 #:number',
     'payment_for_proforma_invoice' => '支付預估發票 #:id',
     'transaction_statuses' => [
         'succeeded' => '已成功',

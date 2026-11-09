@@ -34,7 +34,7 @@ return [
     'amount' => 'Jumlah',
     'date' => 'Tanggal',
     'due_date' => 'Jatuh Tempo',
-    'payment_for_invoice' => 'Pembayaran untuk Faktur #:id',
+    'payment_for_invoice' => 'Pembayaran untuk Faktur #:number',
     'payment_for_proforma_invoice' => 'Pembayaran untuk Faktur Proforma #:id',
     'transaction_statuses' => [
         'succeeded' => 'Berhasil',

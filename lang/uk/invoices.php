@@ -34,7 +34,7 @@ return [
     'amount' => 'Сума',
     'date' => 'Дата',
     'due_date' => 'Кінцева дата',
-    'payment_for_invoice' => 'Оплата за рахунком #:id',
+    'payment_for_invoice' => 'Оплата за рахунком #:number',
     'payment_for_proforma_invoice' => 'Оплата за рахунком-проформою #:id',
     'transaction_statuses' => [
         'succeeded' => 'Успішно',

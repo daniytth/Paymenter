@@ -34,7 +34,7 @@ return [
     'amount' => 'राशि',
     'date' => 'तारीख',
     'due_date' => 'देय तिथि',
-    'payment_for_invoice' => 'इनवॉइस #:id के लिए भुगतान',
+    'payment_for_invoice' => 'इनवॉइस #:number के लिए भुगतान',
     'payment_for_proforma_invoice' => 'प्रोफ़ॉर्मा इनवॉइस #:id के लिए भुगतान',
     'transaction_statuses' => [
         'succeeded' => 'सफल',

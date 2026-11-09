@@ -34,7 +34,7 @@ return [
     'amount' => 'Kwota',
     'date' => 'Data',
     'due_date' => 'Termin płatności',
-    'payment_for_invoice' => 'Płatność za fakturę #:id',
+    'payment_for_invoice' => 'Płatność za fakturę #:number',
     'payment_for_proforma_invoice' => 'Płatność za fakturę proforma #:id',
     'transaction_statuses' => [
         'succeeded' => 'Powiodło się',

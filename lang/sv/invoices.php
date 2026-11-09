@@ -34,7 +34,7 @@ return [
     'amount' => 'Belopp',
     'date' => 'Datum',
     'due_date' => 'Förfallodatum',
-    'payment_for_invoice' => 'Betalning för faktura #:id',
+    'payment_for_invoice' => 'Betalning för faktura #:number',
     'payment_for_proforma_invoice' => 'Betalning för proformafaktura #:id',
     'transaction_statuses' => [
         'succeeded' => 'Genomförd',

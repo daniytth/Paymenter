@@ -34,7 +34,7 @@ return [
     'amount' => 'Importo',
     'date' => 'Data',
     'due_date' => 'Data di scadenza',
-    'payment_for_invoice' => 'Pagamento per la fattura #:id',
+    'payment_for_invoice' => 'Pagamento per la fattura #:number',
     'payment_for_proforma_invoice' => 'Pagamento per la fattura proforma #:id',
     'transaction_statuses' => [
         'succeeded' => 'Riuscito',

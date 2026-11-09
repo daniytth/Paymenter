@@ -34,7 +34,7 @@ return [
     'amount' => 'סכום',
     'date' => 'תאריך',
     'due_date' => 'תאריך יעד',
-    'payment_for_invoice' => 'תשלום עבור חשבונית #:id',
+    'payment_for_invoice' => 'תשלום עבור חשבונית #:number',
     'payment_for_proforma_invoice' => 'תשלום עבור חשבונית פרופורמה #:id',
     'transaction_statuses' => [
         'succeeded' => 'הצליח',
