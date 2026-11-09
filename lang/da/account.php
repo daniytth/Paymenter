@@ -2,17 +2,17 @@
 
 return [
     'account' => 'Konto',
-    'personal_details' => 'Personlig information',
+    'personal_details' => 'Personlig Information',
     'security' => 'Sikkerhed',
     'credits' => 'Balance',
 
-    'change_password' => 'Skift adgangskode',
+    'change_password' => 'Skift Adgangskode',
 
     'two_factor_authentication' => 'Totrinsgodkendelse',
     'two_factor_authentication_description' => 'Tilføj et ekstra sikkerhedslag.',
-    'two_factor_authentication_enabled' => 'Totrinsgodkendelse er slået til på din konto.',
-    'two_factor_authentication_enable' => 'Aktiver totrinsgodkendelse på din konto',
-    'two_factor_authentication_disable' => 'Deaktiver totrinsgodkendelse',
+    'two_factor_authentication_enabled' => 'Totrinsgodkendelse Er Slået Til På Din Konto.',
+    'two_factor_authentication_enable' => 'Aktiver Totrinsgodkendelse På Din Konto',
+    'two_factor_authentication_disable' => 'Deaktiver Totrinsgodkendelse',
     'two_factor_authentication_disable_description' => 'Er du sikker på at du vil deaktivere dette? Det vil fjerne det ekstra sikkerhedslag.',
     'two_factor_authentication_enable_description' => 'For at aktivere totrinsgodkendelse, skal du scanne denne QR kode under med din valgte authenticator app.',
     'two_factor_authentication_qr_code' => 'Scan QR koden under med din valgte authenticator app:',
@@ -24,14 +24,14 @@ return [
     'current_device' => 'Aktuel enhed',
 
     'input' => [
-        'current_password' => 'Nuværende kodeord',
+        'current_password' => 'Nuværende Kodeord',
         'current_password_placeholder' => 'Dit nuværende kodeord',
-        'new_password' => 'Nyt kodeord',
+        'new_password' => 'Nyt Kodeord',
         'new_password_placeholder' => 'Dit nye kodeord',
-        'confirm_password' => 'Gentag kodeord',
+        'confirm_password' => 'Gentag Kodeord',
         'confirm_password_placeholder' => 'Gentag dit nye kodeord',
 
-        'two_factor_code' => 'Indtast koden fra din authenticator app',
+        'two_factor_code' => 'Indtast Koden Fra Din Authenticator App',
         'two_factor_code_placeholder' => 'Din totrins kode',
 
         'currency' => 'Valuta',

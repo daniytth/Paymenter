@@ -4,7 +4,7 @@ return [
     'home' => 'Hjem',
     'shop' => 'Butik',
     'cart' => 'Kurv',
-    'login' => 'Log ind',
+    'login' => 'Log Ind',
     'register' => 'Registrer',
     'services' => 'Tjenester',
     'invoices' => 'Fakturaer',

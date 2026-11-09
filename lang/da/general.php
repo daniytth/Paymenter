@@ -29,11 +29,11 @@ return [
         'password' => 'Kodeord',
         'password_placeholder' => 'Dit kodeord',
 
-        'password_confirmation' => 'Bekræft kodeord',
+        'password_confirmation' => 'Bekræft Kodeord',
         'password_confirmation_placeholder' => 'Bekræft dit kodeord',
     ],
 
-    'all_rights_reserved' => 'Alle rettigheder forbeholdes.',
+    'all_rights_reserved' => 'Alle Rettigheder Forbeholdes.',
     'update' => 'Opdater',
     'save' => 'Gem',
 ];

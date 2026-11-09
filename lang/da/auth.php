@@ -17,15 +17,15 @@ return [
     'password' => 'Adgangskoden er forkert.',
     'throttle' => 'For mange loginforsøg. Prøv igen om :seconds sekunder.',
 
-    'sign_in' => 'Log ind',
-    'sign_in_title' => 'Log ind på din konto',
-    'or_sign_in_with' => 'Eller log ind med',
+    'sign_in' => 'Log Ind',
+    'sign_in_title' => 'Log Ind På Din Konto',
+    'or_sign_in_with' => 'Eller Log Ind Med',
     'forgot_password' => 'Glemt dit kodeord?',
     'dont_have_account' => 'Har du ikke en konto?',
     'already_have_account' => 'Har du allerede en konto?',
 
     'sign_up' => 'Opret',
-    'sign_up_title' => 'Opret din konto',
+    'sign_up_title' => 'Opret Din Konto',
 
     'logout' => 'Log ud',
 
@@ -40,7 +40,7 @@ return [
         'account_not_registered' => 'Du er ikke registreret på denne side.',
     ],
 
-    'reset_password' => 'Nulstil kodeord',
+    'reset_password' => 'Nulstil Kodeord',
 
     'verify_2fa' => 'Verificer 2FA',
     'verify' => 'Verificer',
