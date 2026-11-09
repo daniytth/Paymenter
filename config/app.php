@@ -105,6 +105,7 @@ return [
         'he' => 'עברית',
         'hi' => 'हिन्दी',
         'hu' => 'Magyar',
+        'ja' => '日本',
         'id' => 'Bahasa Indonesia',
         'it' => 'Italiano',
         'ko' => '한국어',
