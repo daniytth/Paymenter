@@ -17,17 +17,17 @@ return [
     'password' => 'Annettu salasana on virheellinen.',
     'throttle' => 'Liian monta kirjautumisyritystä. Yritä uudelleen :seconds sekunnin kuluttua.',
 
-    'sign_in' => 'Kirjaudu sisään',
-    'sign_in_title' => 'Kirjaudu sisään tilillesi',
+    'sign_in' => 'Kirjaudu Sisään',
+    'sign_in_title' => 'Kirjaudu Sisään Tilillesi',
     'or_sign_in_with' => 'Tai kirjaudu käyttäen',
     'forgot_password' => 'Unohditko salasanasi?',
     'dont_have_account' => 'Eikö sinulla ole tiliä?',
     'already_have_account' => 'Onko sinulla jo tili?',
 
     'sign_up' => 'Rekisteröidy',
-    'sign_up_title' => 'Luo tilisi',
+    'sign_up_title' => 'Luo Tilisi',
 
-    'logout' => 'Kirjaudu ulos',
+    'logout' => 'Kirjaudu Ulos',
 
     'input' => [
         'email' => 'Sähköposti',
@@ -40,7 +40,7 @@ return [
         'account_not_registered' => 'Et ole rekisteröitynyt tälle sivustolle.',
     ],
 
-    'reset_password' => 'Nollaa salasana',
+    'reset_password' => 'Nollaa Salasana',
 
     'verify_2fa' => 'Vahvista 2FA',
     'verify' => 'Vahvista',

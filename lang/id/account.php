@@ -2,11 +2,11 @@
 
 return [
     'account' => 'Akun',
-    'personal_details' => 'Data pribadi',
+    'personal_details' => 'Data Pribadi',
     'security' => 'Keamanan',
     'credits' => 'Kredit',
 
-    'change_password' => 'Ubah kata sandi',
+    'change_password' => 'Ubah Kata Sandi',
 
     'two_factor_authentication' => 'Autentikasi dua faktor',
     'two_factor_authentication_description' => 'Tambahkan lapisan keamanan ekstra ke akun Anda dengan mengaktifkan autentikasi dua faktor.',

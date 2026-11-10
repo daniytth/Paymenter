@@ -9,7 +9,7 @@ return [
     'services' => 'Szolgáltatások',
     'invoices' => 'Díjbekérők',
     'account' => 'Fiók',
-    'personal_details' => 'Személyes adatok',
+    'personal_details' => 'Személyes Adatok',
     'security' => 'Biztonság',
     'dashboard' => 'Vezérlőpult',
     'tickets' => 'Ügyfélszolgálati jegyek',

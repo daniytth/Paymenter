@@ -18,21 +18,21 @@ return [
     'throttle' => 'Trop de tentatives de connexion. Veuillez réessayer dans :seconds secondes.',
 
     'sign_in' => 'Connexion',
-    'sign_in_title' => 'Connectez-vous à votre compte',
+    'sign_in_title' => 'Connectez-vous à Votre Compte',
     'or_sign_in_with' => 'Ou connectez-vous avec',
     'forgot_password' => 'Mot de passe oublié ?',
     'dont_have_account' => 'Vous n\'avez pas de compte ?',
     'already_have_account' => 'Vous avez déjà un compte ?',
 
     'sign_up' => 'Inscription',
-    'sign_up_title' => 'Créez votre compte',
+    'sign_up_title' => 'Créez Votre Compte',
 
     'logout' => 'Déconnexion',
 
     'input' => [
         'email' => 'E-mail',
         'email_label' => 'Adresse e-mail',
-        'password' => 'Mot de passe',
+        'password' => 'Mot De Passe',
     ],
 
     'oauth' => [
@@ -40,9 +40,9 @@ return [
         'account_not_registered' => 'Vous n\'êtes pas inscrit sur ce site.',
     ],
 
-    'reset_password' => 'Réinitialiser le mot de passe',
+    'reset_password' => 'Réinitialiser Le Mot De PSasse',
 
-    'verify_2fa' => 'Vérifier l\'authentification 2FA',
+    'verify_2fa' => 'Vérifier L\'authentification 2FA',
     'verify' => 'Vérifier',
 
     'verification' => [

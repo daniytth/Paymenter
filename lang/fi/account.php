@@ -2,13 +2,13 @@
 
 return [
     'account' => 'Käyttäjä',
-    'personal_details' => 'Henkilökohtaiset tiedot',
+    'personal_details' => 'Henkilökohtaiset Tiedot',
     'security' => 'Turvallisuus',
     'credits' => 'Krediitit',
 
-    'change_password' => 'Vaihda salasana',
+    'change_password' => 'Vaihda Salasana',
 
-    'two_factor_authentication' => 'Kaksivaiheinen tunnistautuminen',
+    'two_factor_authentication' => 'Kaksivaiheinen Tunnistautuminen',
     'two_factor_authentication_description' => 'Lisää ylimääräinen suojauskerros tilillesi ottamalla käyttöön kaksivaiheisen tunnistautumisen.',
     'two_factor_authentication_enabled' => 'Kaksivaiheinen todennus on käytössä tililläsi.',
     'two_factor_authentication_enable' => 'Ota käyttöön kaksivaiheinen tunnistautuminen',
@@ -20,18 +20,18 @@ return [
 
     'sessions' => 'Istunnot',
     'sessions_description' => 'Hallitse ja kirjaudu ulos aktiivisista istunnoistasi muissa selaimissa ja laitteissa.',
-    'logout_sessions' => 'Kirjaudu ulos tästä istunnosta',
+    'logout_sessions' => 'Kirjaudu Ulos Tästä Istunnosta',
     'current_device' => 'Tämänhetkinen laite',
 
     'input' => [
-        'current_password' => 'Nykyinen salasana',
+        'current_password' => 'Nykyinen Salasana',
         'current_password_placeholder' => 'Nykyinen salasanasi',
-        'new_password' => 'Uusi salasana',
+        'new_password' => 'Uusi Salasana',
         'new_password_placeholder' => 'Sinun uusi salasanasi',
-        'confirm_password' => 'Vahvista salasana',
+        'confirm_password' => 'Vahvista Salasana',
         'confirm_password_placeholder' => 'Vahvista uusi salasanasi',
 
-        'two_factor_code' => 'Syötä todennussovelluksen näyttämä koodi',
+        'two_factor_code' => 'Syötä Todennussovelluksen Näyttämä Koodi',
         'two_factor_code_placeholder' => 'Kaksivaiheinen tunnistautumiskoodi',
 
         'currency' => 'Valuutta',
@@ -50,20 +50,20 @@ return [
     ],
 
     'no_credit' => 'Sinulla ei ole yhtään krediittiä.',
-    'add_credit' => 'Lisää krediittejä',
-    'credit_deposit' => 'Krediittien talletus (:currency)',
+    'add_credit' => 'Lisää Krediittejä',
+    'credit_deposit' => 'Krediittien Talletus (:currency)',
 
     'payment_methods' => 'Maksutavat',
-    'recent_transactions' => 'Viimeisimmät tapahtumat',
+    'recent_transactions' => 'Viimeisimmät Tapahtumat',
     'saved_payment_methods' => 'Tallennetut maksutavat',
-    'setup_payment_method' => 'Aseta uusi maksutapa',
+    'setup_payment_method' => 'Aseta Uusi Maksutapa',
     'no_saved_payment_methods' => 'Sinulla ei ole tallennettuja maksutapoja.',
     'saved_payment_methods_description' => 'Hallitse tallennettuja maksutapojasi nopeammille ostoksille ja automaattimaksuille.',
     'no_saved_payment_methods_description' => 'Voit lisätä maksutavan tehdäksesi tulevista maksuista nopeampia ja helpompia sekä salliaksesi palvelujesi automaattiset maksut.',
-    'add_payment_method' => 'Lisää maksutapa',
+    'add_payment_method' => 'Lisää Maksutapa',
     'payment_method_statuses' => [
         'active' => 'Aktiivinen',
-        'inactive' => 'Ei käytössä',
+        'inactive' => 'Ei Käytössä',
         'expired' => 'Vanhentunut',
         'pending' => 'Odottaa',
     ],
@@ -71,7 +71,7 @@ return [
     'payment_method_add_failed' => 'Maksutavan lisääminen epäonnistui. Yritä uudelleen.',
     'services_linked' => ':count palvelu(a) yhdistetty',
     'remove' => 'Poista',
-    'remove_payment_method' => 'Poista maksutapa',
+    'remove_payment_method' => 'Poista Maksutapa',
     'remove_payment_method_confirm' => 'Oletko varma, että haluat poistaa :name? Tätä toimintoa ei voi peruuttaa.',
     'expires' => 'Vanhenee :date',
     'cancel' => 'Peruuta',

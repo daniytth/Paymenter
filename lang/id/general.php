@@ -3,9 +3,9 @@
 return [
 
     'input' => [
-        'first_name' => 'Nama depan',
+        'first_name' => 'Nama Depan',
         'first_name_placeholder' => 'Nama depan Anda',
-        'last_name' => 'Nama belakang',
+        'last_name' => 'Nama Belakang',
         'last_name_placeholder' => 'Nama belakang Anda',
         'email' => 'Email',
         'email_placeholder' => 'Email Anda',
@@ -33,7 +33,7 @@ return [
         'password_confirmation_placeholder' => 'Konfirmasi kata sandi baru Anda',
     ],
 
-    'all_rights_reserved' => 'Hak cipta dilindungi.',
+    'all_rights_reserved' => 'Hak Cipta Dilindungi.',
     'update' => 'Perbarui',
     'save' => 'Simpan',
 ];

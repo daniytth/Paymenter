@@ -17,20 +17,20 @@ return [
     'password' => 'La contraseña introducida es incorrecta.',
     'throttle' => 'Demasiados intentos de inicio de sesión. Por favor, inténtalo de nuevo en :seconds segundos.',
 
-    'sign_in' => 'Inicia sesión',
-    'sign_in_title' => 'Inicia sesión en tu cuenta',
+    'sign_in' => 'Inicia Sesión',
+    'sign_in_title' => 'Inicia Sesión En Tu Cuenta',
     'or_sign_in_with' => 'O inicia sesión con',
     'forgot_password' => '¿Has olvidado tu contraseña?',
     'dont_have_account' => '¿No tienes una cuenta?',
     'already_have_account' => '¿Ya tienes una cuenta?',
 
     'sign_up' => 'Regístrate',
-    'sign_up_title' => 'Crear una cuenta',
+    'sign_up_title' => 'Crear Una Cuenta',
 
-    'logout' => 'Cerrar sesión',
+    'logout' => 'Cerrar Sesión',
 
     'input' => [
-        'email' => 'Correo electrónico',
+        'email' => 'Correo Electrónico',
         'email_label' => 'Correo electrónico',
         'password' => 'Contraseña',
     ],
@@ -40,7 +40,7 @@ return [
         'account_not_registered' => 'No estás registrado en este sitio.',
     ],
 
-    'reset_password' => 'Restablecer contraseña',
+    'reset_password' => 'Restablecer Contraseña',
 
     'verify_2fa' => 'Verificar 2FA',
     'verify' => 'Verificar',

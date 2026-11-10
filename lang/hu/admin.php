@@ -3,12 +3,12 @@
 return [
 
     'cronjob' => [
-        'invoices_created' => 'Díjbekérő létrehozva',
-        'orders_cancelled' => 'Megrendelés törölve',
-        'upgrade_invoices_updated' => 'Bővítési számlák frissítve',
-        'services_suspended' => 'Szolgáltatás felfüggesztve',
-        'services_terminated' => 'Szolgáltatás megszüntetve',
-        'tickets_closed' => 'Ügyfélszolgálati jegyek lezárva',
-        'email_logs_deleted' => 'Az e-mail naplók törölve',
+        'invoices_created' => 'Díjbekérő Létrehozva',
+        'orders_cancelled' => 'Megrendelés Törölve',
+        'upgrade_invoices_updated' => 'Bővítési Számlák Frissítve',
+        'services_suspended' => 'Szolgáltatás Felfüggesztve',
+        'services_terminated' => 'Szolgáltatás Megszüntetve',
+        'tickets_closed' => 'Ügyfélszolgálati Jegyek Lezárva',
+        'email_logs_deleted' => 'Az e-mail Naplók Törölve',
     ],
 ];

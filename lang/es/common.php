@@ -5,7 +5,7 @@ return [
 
     'button' => [
         'view' => 'Ver',
-        'view_all' => 'Ver todo',
+        'view_all' => 'Ver Todo',
     ],
     'confirm' => 'Confirmar',
     'cancel' => 'Cancelar',

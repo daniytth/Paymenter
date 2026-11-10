@@ -29,11 +29,11 @@ return [
         'password' => 'Jelszó',
         'password_placeholder' => 'Jelszavad',
 
-        'password_confirmation' => 'Jelszó megerősítése',
+        'password_confirmation' => 'Jelszó Megerősítése',
         'password_confirmation_placeholder' => 'Erősítsd meg a jelszavad',
     ],
 
-    'all_rights_reserved' => 'Minden jog fenntartva.',
+    'all_rights_reserved' => 'Minden Jog Fenntartva.',
     'update' => 'Frissítés',
     'save' => 'Mentés',
 ];

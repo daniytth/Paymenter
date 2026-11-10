@@ -72,6 +72,6 @@ return [
     'label' => 'Etiket',
     'label_placeholder' => 'Angiv en brugerdefineret etiket til denne service',
     'label_modal_title' => 'Rediger Serviceetiket',
-    'update_label' => 'Opdater etiket',
+    'update_label' => 'Opdater Etiket',
 
 ];

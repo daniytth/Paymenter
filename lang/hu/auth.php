@@ -18,14 +18,14 @@ return [
     'throttle' => 'Túl sok bejelentkezési kísérlet. Kérlek, próbáld újra :seconds másodperc múlva.',
 
     'sign_in' => 'Belépés',
-    'sign_in_title' => 'Jelentkezz be a fiókodba',
+    'sign_in_title' => 'Jelentkezz Be a Fiókodba',
     'or_sign_in_with' => 'Vagy jelentkezz be ezzel',
     'forgot_password' => 'Elfelejtetted a jelszavadat?',
     'dont_have_account' => 'Nincs még fiókod?',
     'already_have_account' => 'Van már fiókod?',
 
     'sign_up' => 'Regisztráció',
-    'sign_up_title' => 'Fiók létrehozása',
+    'sign_up_title' => 'Fiók Létrehozása',
 
     'logout' => 'Kijelentkezés',
 
@@ -40,9 +40,9 @@ return [
         'account_not_registered' => 'Nem regisztráltál ezen az oldalon.',
     ],
 
-    'reset_password' => 'Jelszó visszaállítása',
+    'reset_password' => 'Jelszó Visszaállítása',
 
-    'verify_2fa' => 'Kétfaktoros hitelesítés',
+    'verify_2fa' => 'Kétfaktoros Hitelesítés',
     'verify' => 'Hitelesítés',
 
     'verification' => [

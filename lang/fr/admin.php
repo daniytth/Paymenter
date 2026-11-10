@@ -3,12 +3,12 @@
 return [
 
     'cronjob' => [
-        'invoices_created' => 'Factures créées',
-        'orders_cancelled' => 'Commandes annulées',
-        'upgrade_invoices_updated' => 'Factures de mise à niveau mises à jour',
-        'services_suspended' => 'Services suspendus',
-        'services_terminated' => 'Services terminés',
-        'tickets_closed' => 'Tickets clôturés',
-        'email_logs_deleted' => 'Journaux e-mail supprimés',
+        'invoices_created' => 'Factures Créées',
+        'orders_cancelled' => 'Commandes Annulées',
+        'upgrade_invoices_updated' => 'Factures De Mise à Niveau Mises à Jour',
+        'services_suspended' => 'Services Suspendus',
+        'services_terminated' => 'Services Terminés',
+        'tickets_closed' => 'Tickets Clôturés',
+        'email_logs_deleted' => 'Journaux E-mail Supprimés',
     ],
 ];

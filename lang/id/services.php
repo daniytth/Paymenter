@@ -17,7 +17,7 @@ return [
     'cancel_reason' => 'Alasan Pembatalan',
     'cancel_type' => 'Jenis Pembatalan',
     'cancel_immediate' => 'Batalkan Segera',
-    'cancel_end_of_period' => 'Batalkan pada akhir periode tagihan',
+    'cancel_end_of_period' => 'Batalkan Pada Akhir Periode Tagihan',
     'cancel_immediate_warning' => 'Ketika Anda menekan tombol di bawah, layanan ini akan langsung dibatalkan dan Anda tidak akan bisa menggunakannya lagi.',
     'cancellation_requested' => 'Permintaan Pembatalan telah dikirimkan',
     'not_cancellable' => 'Layanan ini tidak dapat dibatalkan',

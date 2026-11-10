@@ -18,14 +18,14 @@ return [
     'throttle' => 'Terlalu banyak upaya login. Silakan coba lagi dalam :seconds detik.',
 
     'sign_in' => 'Masuk',
-    'sign_in_title' => 'Masuk ke akun Anda',
+    'sign_in_title' => 'Masuk Ke Akun Anda',
     'or_sign_in_with' => 'Atau masuk dengan',
     'forgot_password' => 'Lupa kata sandi Anda?',
     'dont_have_account' => 'Tidak memiliki akun?',
     'already_have_account' => 'Sudah memiliki akun?',
 
     'sign_up' => 'Daftar',
-    'sign_up_title' => 'Buat akun',
+    'sign_up_title' => 'Buat Akun',
 
     'logout' => 'Keluar',
 
@@ -40,7 +40,7 @@ return [
         'account_not_registered' => 'Anda tidak terdaftar di situs ini.',
     ],
 
-    'reset_password' => 'Atur ulang kata sandi',
+    'reset_password' => 'Atur Ulang Kata Sandi',
 
     'verify_2fa' => 'Verifikasi 2FA',
     'verify' => 'Verifikasi',

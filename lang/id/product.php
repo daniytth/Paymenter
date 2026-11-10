@@ -22,9 +22,9 @@ return [
     'out_of_stock' => ':product tidak tersedia',
     'not_available' => ':product tidak tersedia dalam mata uang Anda',
     'user_limit' => 'Anda telah mencapai batas untuk :product',
-    'payment_method' => 'Metode pembayaran',
+    'payment_method' => 'Metode Pembayaran',
     'use_credits' => 'Gunakan Kredit',
-    'tos' => 'Saya setuju dengan ',
+    'tos' => 'Saya Setuju Dengan ',
     'tos_link' => 'Syarat dan Ketentuan',
     'tos_required' => 'Anda harus menyetujui persyaratan layanan',
 ];

@@ -23,7 +23,7 @@ return [
         'address2_placeholder' => 'Din adresse 2',
         'zip' => 'Postnummer',
         'zip_placeholder' => 'Dit postnummer',
-        'state' => 'Stat/region',
+        'state' => 'Stat/Region',
         'state_placeholder' => 'Din stat/region',
 
         'password' => 'Kodeord',

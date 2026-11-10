@@ -29,11 +29,11 @@ return [
         'password' => 'Salasana',
         'password_placeholder' => 'Salasanasi',
 
-        'password_confirmation' => 'Vahvista salasana',
+        'password_confirmation' => 'Vahvista Salasana',
         'password_confirmation_placeholder' => 'Vahvista sinun salasanasi',
     ],
 
-    'all_rights_reserved' => 'Kaikki oikeudet pidätetään.',
+    'all_rights_reserved' => 'Kaikki Oikeudet Pidätetään.',
     'update' => 'Päivitä',
     'save' => 'Tallenna',
 ];

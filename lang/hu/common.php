@@ -5,11 +5,11 @@ return [
 
     'button' => [
         'view' => 'Megtekintés',
-        'view_all' => 'Összes megtekintése',
+        'view_all' => 'Összes Megtekintése',
     ],
     'confirm' => 'Megerősítés',
     'cancel' => 'Mégsem',
     'select' => [
-        'placeholder' => 'Kérjük, válaszd ki: :name',
+        'placeholder' => 'Kérjük, Válaszd Ki: :name',
     ],
 ];

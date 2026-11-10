@@ -5,7 +5,7 @@ return [
 
     'button' => [
         'view' => 'Näytä',
-        'view_all' => 'Näytä kaikki',
+        'view_all' => 'Näytä Kaikki',
     ],
     'confirm' => 'Vahvista',
     'cancel' => 'Peruuta',

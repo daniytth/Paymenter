@@ -45,7 +45,7 @@ return [
         'active' => 'Aktiv',
         'cancelled' => 'Gekündigt',
         'suspended' => 'Ausgesetzt',
-        'cancellation_pending' => 'Kündigung ausstehend',
+        'cancellation_pending' => 'Kündigung Ausstehend',
     ],
     'billing_cycles' => [
         'day' => 'Tag|Tage',
@@ -58,20 +58,20 @@ return [
     'price_one_time' => ':price einmal',
     'renews_in' => 'Wird erneuert in',
     'renews_on' => 'Wird erneuert am',
-    'auto_pay' => 'Automatische Zahlung mit',
-    'auto_pay_not_configured' => 'Nicht konfiguriert',
+    'auto_pay' => 'Automatische Zahlung Mit',
+    'auto_pay_not_configured' => 'Nicht Konfiguriert',
 
-    'no_services' => 'Keine Dienste gefunden',
-    'update_billing_agreement' => 'Vereinbarung aktualisieren',
-    'clear_billing_agreement' => 'Zahlungsvereinbarung entfernen',
-    'select_billing_agreement' => 'Zahlungsvereinbarung auswählen',
+    'no_services' => 'Keine Dienste Gefunden',
+    'update_billing_agreement' => 'Vereinbarung Aktualisieren',
+    'clear_billing_agreement' => 'Zahlungsvereinbarung Entfernen',
+    'select_billing_agreement' => 'Zahlungsvereinbarung Auswählen',
 
-    'remove_payment_method' => 'Zahlungsmethode entfernen',
+    'remove_payment_method' => 'Zahlungsmethode Entfernen',
     'remove_payment_method_confirm' => 'Möchtest du die Zahlungsmethode „:name“ wirklich aus diesem Dienst entfernen? Der Dienst kann dann seine Rechnungen nicht mehr automatisch bezahlen.',
 
     'label' => 'Bezeichnung',
     'label_placeholder' => 'Gib eine benutzerdefinierte Bezeichnung für diesen Dienst ein',
-    'label_modal_title' => 'Dienstleistungsbezeichnung bearbeiten',
-    'update_label' => 'Bezeichnung aktualisieren',
+    'label_modal_title' => 'Dienstleistungsbezeichnung Bearbeiten',
+    'update_label' => 'Bezeichnung Aktualisieren',
 
 ];

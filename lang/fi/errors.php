@@ -2,9 +2,9 @@
 
 return [
     '404' => [
-        'title' => 'Sivua ei löytynyt',
+        'title' => 'Sivua Ei Löytynyt',
         'message' => 'Valitettavasti etsimääsi sivua ei löytynyt.',
-        'return_home' => 'Takaisin etusivulle',
+        'return_home' => 'Takaisin Etusivulle',
     ],
     '500' => [
         'title' => 'Palvelinvirhe',
