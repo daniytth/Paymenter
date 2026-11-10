@@ -18,14 +18,14 @@ return [
     'throttle' => 'Troppi tentativi di accesso. Per favore riprova tra :seconds secondi.',
 
     'sign_in' => 'Accedi',
-    'sign_in_title' => 'Accedi al tuo account',
+    'sign_in_title' => 'Accedi Al Tuo Account',
     'or_sign_in_with' => 'Oppure accedi con',
     'forgot_password' => 'Password dimenticata?',
     'dont_have_account' => 'Non hai un account?',
     'already_have_account' => 'Hai già un account?',
 
     'sign_up' => 'Registrati',
-    'sign_up_title' => 'Crea il tuo account',
+    'sign_up_title' => 'Crea Il Tuo Account',
 
     'logout' => 'Disconnettiti',
 
@@ -40,7 +40,7 @@ return [
         'account_not_registered' => 'Non sei registrato su questo sito.',
     ],
 
-    'reset_password' => 'Resetta la password',
+    'reset_password' => 'Resetta La Password',
 
     'verify_2fa' => 'Verifica 2FA',
     'verify' => 'Verifica',

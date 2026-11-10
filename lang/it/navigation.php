@@ -9,7 +9,7 @@ return [
     'services' => 'Servizi',
     'invoices' => 'Fatture',
     'account' => 'Profilo',
-    'personal_details' => 'Dati personali',
+    'personal_details' => 'Dati Personali',
     'security' => 'Sicurezza',
     'dashboard' => 'Dashboard',
     'tickets' => 'Tickets',

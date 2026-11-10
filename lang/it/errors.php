@@ -2,12 +2,12 @@
 
 return [
     '404' => [
-        'title' => 'Pagina non trovata',
+        'title' => 'Pagina Non Trovata',
         'message' => 'Spiacenti, la pagina che stai cercando non è stata trovata.',
         'return_home' => 'Torna alla pagina iniziale',
     ],
     '500' => [
-        'title' => 'Errore del server',
+        'title' => 'Errore Del Server',
         'message' => 'Ci dispiace, ma qualcosa è andato storto dalla nostra parte. Riprova più tardi.',
     ],
 ];

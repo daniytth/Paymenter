@@ -11,7 +11,7 @@ return [
         'email_placeholder' => 'Il tuo indirizzo email',
         'phone' => 'Telefono',
         'phone_placeholder' => 'Il tuo numero di telefono',
-        'company_name' => 'Nome dell\'azienda',
+        'company_name' => 'Nome Dell\'Azienda',
         'company_name_placeholder' => 'Il nome della tua azienda',
         'country' => 'Paese',
         'country_placeholder' => 'Il tuo paese',
@@ -33,7 +33,7 @@ return [
         'password_confirmation_placeholder' => 'Conferma la tua password',
     ],
 
-    'all_rights_reserved' => 'Tutti i diritti riservati.',
+    'all_rights_reserved' => 'Tutti i Diritti Riservati.',
     'update' => 'Aggiorna',
     'save' => 'Salva',
 ];
