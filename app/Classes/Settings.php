@@ -560,6 +560,13 @@ class Settings
                     'default' => '',
                 ],
                 [
+                    'name' => 'invoice_accent_color',
+                    'label' => 'Invoice Accent Color',
+                    'type' => 'color',
+                    'default' => 'hsl(215, 45%, 27%)',
+                    'description' => 'The accent color used on invoices (PDF and client area), e.g. table headers and totals.',
+                ],
+                [
                     'name' => 'invoice_number',
                     'label' => 'Invoice Number',
                     'type' => 'number',
